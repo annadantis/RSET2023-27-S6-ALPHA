@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>NeuroVoice</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="card">
+    <h1>NeuroVoice</h1>
+    <p class="subtitle">Multilingual Emotional Text-to-Speech</p>
+
+    <!-- TEXT INPUT -->
+    <label for="text">Text Input</label>
+    <textarea id="text" placeholder="Type something magical..."></textarea>
+
+    <!-- LANGUAGE -->
+    <label for="language">Language</label>
+    <select id="language">
+      <option value="en">English</option>
+      <option value="pt">Portuguese</option>
+      <option value="ja">Japanese</option>
+      <option value="de">German</option>
+      <option value="es">Spanish</option>
+      <option value="fr">French</option>
+    </select>
+
+    <!-- EMOTION STRENGTH (ALPHA) -->
+    <label for="alpha">Emotion Strength: <span id="alphaValue">0.3</span></label>
+    <input type="range" id="alpha" min="0" max="1" step="0.1" value="0.3" 
+           oninput="document.getElementById('alphaValue').textContent = this.value">
+
+    <!-- REFERENCE VOICE (MANDATORY) -->
+    <label>Reference Voice (required)</label>
+
+    <!-- Upload -->
+    <input type="file" id="audio" accept=".wav,.mp3" />
+
+    <!-- Mic Recording -->
+    <div class="mic-controls">
+      <button type="button" onclick="startRecording()">🎙️ Start Recording</button>
+      <button type="button" onclick="stopRecording()">⏹️ Stop</button>
+    </div>
+
+    <p id="recordingStatus" class="status-text"></p>
+
+    <!-- GENERATE -->
+    <div class="generate-controls">
+      <button class="generate-btn" onclick="generateSingle()">Generate Single</button>
+      <button class="generate-btn secondary" onclick="generateMultiple()">Generate Multiple Alphas</button>
+    </div>
+
+    <!-- LOADING INDICATOR -->
+    <div id="loading" class="loading" style="display: none;">
+      <div class="spinner"></div>
+      <p>Generating emotion-aware speech...</p>
+    </div>
+
+    <!-- OUTPUT -->
+    <div class="output">
+      <h3>Generated Audio</h3>
+      <div id="audioContainer"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

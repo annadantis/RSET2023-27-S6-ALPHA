@@ -1,0 +1,11 @@
+torch
+torchaudio
+TTS
+resemblyzer
+librosa
+numpy
+fastapi
+uvicorn
+python-multipart
+soundfile
+phonemizer

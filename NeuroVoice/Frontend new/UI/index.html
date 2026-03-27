@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>NeuroVoice - AI Voice Cloning</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="nav-logo">
+        <i class="fas fa-brain"></i>
+        <span>NeuroVoice</span>
+      </div>
+      <div class="nav-links">
+        <a href="#" class="nav-link active" data-page="home">Home</a>
+        <a href="#" class="nav-link" data-page="upload">Upload Voice</a>
+        <a href="#" class="nav-link" data-page="generate">Generate</a>
+        <a href="#" class="nav-link" data-page="results">Results</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Animated Background -->
+  <div class="bg-animation">
+    <div class="floating-orb orb-1"></div>
+    <div class="floating-orb orb-2"></div>
+    <div class="floating-orb orb-3"></div>
+  </div>
+
+  <!-- Page Container -->
+  <div class="page-container">
+    <!-- HOME PAGE -->
+    <div id="home-page" class="page active">
+      <div class="hero-section">
+        <div class="hero-content">
+          <div class="hero-badge">
+            <i class="fas fa-sparkles"></i>
+            <span>AI-Powered Voice Technology</span>
+          </div>
+          <h1 class="hero-title">
+            <span class="gradient-text">NeuroVoice</span>
+            <br>Emotional Voice Cloning
+          </h1>
+          <p class="hero-subtitle">
+            Clone any voice with emotional intelligence across multiple languages. 
+            Advanced AI preserves speaker identity and emotional expression.
+          </p>
+          <div class="hero-buttons">
+            <button class="btn btn-primary" onclick="navigateTo('upload')">
+              <i class="fas fa-microphone"></i>
+              Get Started
+            </button>
+            <button class="btn btn-secondary" onclick="showDemo()">
+              <i class="fas fa-play"></i>
+              Watch Demo
+            </button>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <div class="voice-visualization">
+            <div class="wave-container">
+              <div class="wave wave-1"></div>
+              <div class="wave wave-2"></div>
+              <div class="wave wave-3"></div>
+              <div class="wave wave-4"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Features -->
+      <div class="features-section">
+        <h2 class="section-title">Powerful Features</h2>
+        <div class="features-grid">
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-heart"></i>
+            </div>
+            <h3>Emotional Intelligence</h3>
+            <p>Preserves emotional nuances and expressions from the original voice</p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-globe"></i>
+            </div>
+            <h3>Multilingual Support</h3>
+            <p>Generate speech in English, Hindi, Tamil, Spanish, and more</p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-bolt"></i>
+            </div>
+            <h3>Real-time Processing</h3>
+            <p>Fast AI processing for instant voice generation and cloning</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- UPLOAD VOICE PAGE -->
+    <div id="upload-page" class="page">
+      <div class="page-header">
+        <button class="back-btn" onclick="navigateTo('home')">
+          <i class="fas fa-arrow-left"></i>
+        </button>
+        <h1>Upload Reference Voice</h1>
+        <p>Provide a voice sample to clone (5-30 seconds recommended)</p>
+      </div>
+
+      <div class="upload-container">
+        <div class="upload-methods">
+          <div class="upload-card active" id="record-tab">
+            <div class="upload-header">
+              <i class="fas fa-microphone"></i>
+              <h3>Record Voice</h3>
+            </div>
+            <div class="recording-interface">
+              <div class="record-visualizer">
+                <div class="pulse-ring"></div>
+                <button class="record-btn" id="recordBtn" onclick="toggleRecording()">
+                  <i class="fas fa-microphone"></i>
+                </button>
+              </div>
+              <p id="recordingStatus" class="status-text">Click to start recording</p>
+              <div class="recording-controls">
+                <button class="btn btn-secondary" onclick="stopRecording()">⏹️ Stop</button>
+                <button class="btn btn-secondary" onclick="playRecording()">▶️ Preview</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="upload-divider">OR</div>
+
+          <div class="upload-card" id="file-tab">
+            <div class="upload-header">
+              <i class="fas fa-cloud-upload-alt"></i>
+              <h3>Upload File</h3>
+            </div>
+            <div class="file-upload-area" id="fileUploadArea">
+              <i class="fas fa-cloud-upload-alt upload-icon"></i>
+              <p>Drag & drop your audio file here</p>
+              <p class="file-info">Supports .wav, .mp3 files (max 10MB)</p>
+              <input type="file" id="audioFile" accept=".wav,.mp3,.webm" hidden>
+              <button class="btn btn-outline" onclick="document.getElementById('audioFile').click()">
+                Choose File
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="upload-actions">
+          <button class="btn btn-primary btn-large" onclick="proceedToGenerate()">
+            <i class="fas fa-arrow-right"></i>
+            Continue to Text Input
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- GENERATE PAGE -->
+    <div id="generate-page" class="page">
+      <div class="page-header">
+        <button class="back-btn" onclick="navigateTo('upload')">
+          <i class="fas fa-arrow-left"></i>
+        </button>
+        <h1>Generate Voice</h1>
+        <p>Enter text and configure generation settings</p>
+      </div>
+
+      <div class="generate-container">
+        <div class="input-section">
+          <div class="input-group">
+            <label for="textInput">Text to Synthesize</label>
+            <div class="textarea-container">
+              <textarea id="textInput" placeholder="Enter the text you want to convert to speech..."></textarea>
+              <div class="char-count">
+                <span id="charCount">0</span>/500 characters
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-grid">
+            <div class="input-group">
+              <label for="languageSelect">Target Language</label>
+              <div class="select-container">
+                <select id="languageSelect">
+                  <option value="en">🇺🇸 English</option>
+                  <option value="fr-fr">🇫🇷 French</option>
+                  <option value="pt-br">�� Portuguese (Brazil)</option>
+                </select>
+                <i class="fas fa-chevron-down"></i>
+              </div>
+            </div>
+
+            <div class="input-group">
+              <label for="emotionSlider">Emotion Intensity</label>
+              <div class="slider-container">
+                <input type="range" id="emotionSlider" min="0" max="100" value="80">
+                <div class="slider-labels">
+                  <span>Subtle</span>
+                  <span>Intense</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="voice-preview">
+            <h4>Reference Voice Preview</h4>
+            <div class="audio-player-custom">
+              <button class="play-btn" onclick="playReference()">
+                <i class="fas fa-play"></i>
+              </button>
+              <div class="audio-timeline">
+                <div class="timeline-progress" id="refTimeline"></div>
+              </div>
+              <span class="audio-duration" id="refDuration">0:00</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="generate-actions">
+          <button class="btn btn-primary btn-large" id="generateBtn" onclick="generateVoice()">
+            <i class="fas fa-magic"></i>
+            <span>Generate Voice</span>
+            <div class="btn-loader" style="display:none;"></div>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- RESULTS PAGE -->
+    <div id="results-page" class="page">
+      <div class="page-header">
+        <button class="back-btn" onclick="navigateTo('generate')">
+          <i class="fas fa-arrow-left"></i>
+        </button>
+        <h1>Generated Results</h1>
+        <p>Your AI-generated voice is ready</p>
+      </div>
+
+      <div class="results-container">
+        <div class="result-card">
+          <div class="result-header">
+            <div class="result-status success">
+              <i class="fas fa-check-circle"></i>
+              <span>Generation Complete</span>
+            </div>
+            <div class="generation-time">
+              Generated in <span id="genTime">0.0s</span>
+            </div>
+          </div>
+
+          <div class="audio-result">
+            <div class="waveform-container">
+              <canvas id="waveform" width="500" height="120"></canvas>
+            </div>
+            <div class="audio-controls">
+              <button class="play-btn-large" onclick="playResult()">
+                <i class="fas fa-play"></i>
+              </button>
+              <div class="audio-info">
+                <div class="audio-title">Generated Speech</div>
+                <div class="audio-meta">
+                  <span id="audioDuration">0:00</span> • 
+                  <span id="audioLang">English</span> • 
+                  <span>High Quality</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="result-actions">
+            <button class="btn btn-outline" onclick="downloadAudio()">
+              <i class="fas fa-download"></i>
+              Download WAV
+            </button>
+            <button class="btn btn-outline" onclick="shareResult()">
+              <i class="fas fa-share"></i>
+              Share
+            </button>
+            <button class="btn btn-primary" onclick="generateAnother()">
+              <i class="fas fa-plus"></i>
+              Generate Another
+            </button>
+          </div>
+        </div>
+
+        <div class="quality-metrics">
+          <h4>Quality Metrics</h4>
+          <div class="metrics-grid">
+            <div class="metric">
+              <div class="metric-value">—</div>
+              <div class="metric-label">Voice Similarity</div>
+            </div>
+            <div class="metric">
+              <div class="metric-value">—</div>
+              <div class="metric-label">Emotion Accuracy</div>
+            </div>
+            <div class="metric">
+              <div class="metric-value">HD</div>
+              <div class="metric-label">Audio Quality</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Loading Overlay -->
+  <div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-content">
+      <div class="loading-spinner"></div>
+      <h3>Processing Voice...</h3>
+      <p>Analyzing emotions and generating speech</p>
+      <div class="loading-progress">
+        <div class="progress-bar"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/wavesurfer.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
