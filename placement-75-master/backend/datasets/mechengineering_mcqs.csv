@@ -1,0 +1,341 @@
+questionid,question,optiona,optionb,optionc,optiond,answer
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Answer
+1,Free air refers to air under which conditions,Atmospheric conditions at any location,20°C and 1 kg/cm² with 36% RH,0°C and standard atmospheric conditions,15°C and 1 kg/cm²,A
+2,Standard air is defined as air at,Atmospheric conditions at any location,20°C and 1 kg/cm² with 36% RH,0°C and standard atmospheric conditions,15°C and 1 kg/cm²,B
+3,The approximate weight of 1 m³ of air at atmospheric conditions is,0.5 kg,1.0 kg,1.3 kg,2.2 kg,C
+4,Adiabatic compression is characterized by,Temperature remains constant,No heat enters or leaves the cylinder,Temperature rise is linear,Work done is maximum,B
+5,A compressor with a capacity of 5 m³/min refers to,Standard air,Free air,Compressed air,Compressed air at delivery pressure,B
+6,Overall isothermal efficiency is the ratio of,Isothermal HP to BHP,Isothermal HP to adiabatic HP,Power required to drive over isothermal HP,Isothermal work to actual work,A
+7,Which method of air compression is most efficient,Isothermal,Adiabatic,Isentropic,Isochoric,A
+8,Maximum work during compression is achieved when,Isothermal,Adiabatic,Polytropic,Any of the above,B
+9,The suction condition of a compressor is,Atmospheric,Slightly above atmospheric,Slightly below atmospheric,Pressure below and temperature above atmospheric,C
+10,To achieve isothermal efficiency, a compressor should run at,Very high speed,Very slow speed,Average speed,Zero speed,B
+11,When the suction temperature decreases, the capacity,Increases,Decreases,Remains unaffected,Depends on capacity,A
+12,High-speed isothermal efficiency is approached by,Multistage compression,Cold water spray,Both A and B,Insulating cylinder,C
+13,Compression efficiency is measured relative to,Ideal compression,Adiabatic compression,Both isothermal and adiabatic,Isentropic compression,D
+14,Aircraft usually use which type of compressor,Radial flow,Axial flow,Centrifugal,Combination,B
+15,Intercooling in compressors,Reduces power requirement,Cools delivered air,Standard for large compressors,Enables two-stage compression,B
+16,An ideal compressor cycle without clearance consists of,One adiabatic, two isobaric, one constant volume stage,Two adiabatic, two isobaric stages,Two adiabatic, one isobaric, one constant volume stage,One adiabatic, one isobaric, two constant volume stages,A
+17,An ideal compressor cycle with clearance includes,Two adiabatic, two isobaric stages,One adiabatic, two isobaric, one constant volume stage,Two adiabatic, one isobaric, one constant volume stage,One adiabatic, one isobaric, two constant volume stages,B
+18,The volume at 327°C if it is 1.5 m³ at 27°C,3 m³,1.5 m³,18 m³,6 m³,A
+19,Work per unit mass is minimum when n equals,1,1.2,1.3,1.4,A
+20,Why is isothermal compression impractical,Requires very large cylinder,Pressure does not rise,Impossible in practice,Needs very slow speed,D
+21,The ratio of indicated HP to brake HP represents,Mechanical efficiency,Volumetric efficiency,Isothermal efficiency,Adiabatic efficiency,A
+22,Work per cycle to swept volume ratio is known as,Compression index,Compression ratio,Compressor efficiency,Mean effective pressure,D
+23,Cylinder clearance should generally be,Large,Small,50% of swept volume,100% of swept volume,B
+24,Compression ratio refers to,Absolute discharge to intake pressure,Gauge discharge to intake pressure,Pressures at same temperature,Stroke to clearance volume,B
+25,Clearance volume is necessary to,Accommodate valves,Provide cushioning,Achieve high volumetric efficiency,Avoid piston hitting head,D
+26,Net work changes with increase in clearance volume,Increases,Decreases,Remains same,Depends on capacity,C
+27,The ratio of indicated HP to shaft HP is,Compressor efficiency,Isothermal efficiency,Volumetric efficiency,Mechanical efficiency,D
+28,Volumetric efficiency is,Stroke to clearance ratio,Actual delivered volume to piston displacement,Reciprocal of compression ratio,Performance index,B
+29,Typical volumetric efficiency falls in the range,20-30%,40-50%,60-70%,70-90%,D
+30,Volumetric efficiency with clearance compared to compression ratio,Increases,Decreases,Independent,Depends on capacity,B
+31,Volumetric efficiency without clearance compared to compression ratio,Increases,Decreases,Independent,Depends on capacity,C
+32,Clearance is kept minimum because,To maximize compression,Affects volumetric efficiency,To minimize work,Isothermal compression,B
+33,Euler’s equation applies to,Centrifugal compressors,Axial compressors,Pumps,All of the above,D
+34,Preferred intake location for compressors,AC room at 20°C,Outside at 1°C,Coal yard,Near cooling tower,D
+35,Motive power in mining industry usually is,AC motor,Compressed air,Petrol engine,Diesel engine,B
+36,Which statement about air receivers is false,Dampen pulsations,Act as reservoir for demand,Increase efficiency,Knock out oil and moisture,C
+37,Air receiver should be placed,Outside in sun,Outside in shade,Outside in rain,Enclosed room,D
+38,False statement about multistage compression,Low power per unit air,High volumetric efficiency,Best around 7:1,Moisture condenses in intercooler,B
+39,Isothermal compression in multistage is achieved by,Intercooler,Constant cooling cylinder,Very slow speed,Insulating cylinder,C
+40,Reciprocating compressors are best suited for,Large air high pressure,Small air high pressure,Small air low pressure,Large air low pressure,A
+41,Rotary compressors are best suited for,Large air high pressure,Small air high pressure,Small air low pressure,Large air low pressure,B
+42,Highest capacity occurs at which intake temperature,Lowest,Highest,Any,Atmospheric,D
+43,Aftercoolers are used to,Cool air,Reduce delivery temperature,Cause moisture drop,Reduce volume,C
+44,Main compressed air line should be,Gradually rising,Gradually dropping,Vertical,Horizontal,B
+45,Separators are located,After intercooler,Before intercooler,After receiver,Between aftercooler and receiver,D
+46,Actual indicator diagram area compared to ideal,Less,More,Same,Depends,B
+47,Compressor control methods include,Throttle,Clearance,Blow off,Any of the above,D
+48,Compressor efficiency is,Isothermal HP / Indicated HP,Isothermal HP / Shaft HP,Total output/Input,Compression work / Motor input,A
+49,Branch connections are taken from,Top of main,Bottom,Left,Right,A
+50,Thrust on centrifugal rotor is caused by,Radial component,Axial component,Tangential component,Resultant,B
+51,Performance at high altitude is,SAME,Higher,Lower,Depends,C
+52,Power drawn at high altitude is,More,Less,Same,Depends,B
+53,Peak load control method is,Start-stop,Constant speed unloader,Relief valve,Variable speed,B
+54,Centrifugal compressors convert,Pressure to kinetic energy,Kinetic to pressure,Centripetal action,Generate pressure,B
+55,Least work occurs when compression is,Isothermal,Isentropic,Polytropic,Between,B
+56,Free air delivered reduced to,Intake temp & pressure,NTP,0°C & 1 kg/cm²,20°C & 1 kg/cm²,B
+57,Volumetric efficiency is based on,Working conditions,NTP,0°C 1 kg/cm²,20°C 1 kg/cm²,B
+58,Efficiency drops per 100 m elevation,0.1%,0.5%,1%,5%,C
+59,Valve for slow, large compressors is,Poppet,Mechanical type,Disc or feather,Any,C
+60,Base load control method is,Start-stop,Constant speed unloader,Relief valve,Variable speed,A
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Answer
+61,Multistage compression is preferred when pressure exceeds,2 kg/cm²,6 kg/cm²,10 kg/cm²,14.7 kg/cm²,A
+62,The advantage of multistage compression includes,Lower power requirement,Higher volumetric efficiency,Decreased discharge temperature,All of the above,E
+63,Incorrect statement about multistage compression,Better lubrication,More leakage loss,Better balance,Perfect cooling,B
+64,If the compression index n decreases, volumetric efficiency,Increases,Decreases,Unaffected,Depends,B
+65,Outlet whirl velocity to blade velocity ratio is known as,Slip factor,Velocity factor,Velocity coefficient,Blade effectiveness,A
+66,Losses in centrifugal compressors occur in,Inlet,Impeller,Diffuser,All of the above,D
+67,Efficiency decreases per 5°C rise in temperature,0.1%,0.5%,1%,5%,C
+68,Indicated work per mass delivered is,Proportional to clearance,Greatly affected,Not affected,Inversely proportional,C
+69,Maximum pressure ratio for a single-stage centrifugal compressor is,1:1.2,1:2,1:4,1:10,
+70,False statement comparing multistage and single-stage compressors,Less power,Better balance,Less leakage,More effective lubrication,E
+71,Isentropic work to Euler work ratio is called,Pressure coefficient,Work coefficient,Polytropic reaction,Slip factor,A
+72,Thermodynamic efficiency for rotary machines is based on,Isotropic,Isothermal,Polytropic,Any,A
+73,Small intermittent high-pressure air is usually supplied by,Centrifugal,Reciprocating,Axial,Screw,B
+74,Least work in multistage compression occurs when,First stage more,Subsequent stages increase,Subsequent stages decrease,All stages equal,D
+75,If the index of the higher stage increases, optimum pressure,Increases,Decreases,Remains same,Depends,A
+76,Diffusers are used to,Increase velocity,Streamline flow,Convert pressure to kinetic energy,Convert kinetic to pressure,D
+77,Isentropic work to Euler work ratio represents,Compressor efficiency,Isentropic efficiency,Euler efficiency,Pressure coefficient,D
+78,Thermodynamic efficiency of rotary compressors is based on,Isothermal,Adiabatic,Isentropic,Polytropic,B
+79,Choking occurs when,No flow,Fixed mass flow,Reduced mass flow,Increased chord inclination,B
+80,Maximum compression ratio for single-stage axial compressors is,1:1.2,1:2,1:5,1:10,A
+81,Maximum delivery pressure of a rotary compressor is,6 kg/cm²,10 kg/cm²,16 kg/cm²,25 kg/cm²,B
+82,Surging in compressors is,Blocked passage,Sonic velocity,Unsteady reversed flow,Blade contour failure,C
+83,Surging does not depend on,Mass flow,Pressure ratio,Load change,Stagnation outlet pressure,D
+84,Increase in pressure in rotor/total stage refers to,Pressure ratio,Pressure coefficient,Degree of reaction,Slip factor,C
+85,Axial compressors resemble,Centrifugal pumps,Reciprocating pumps,Turbines,Sliding vane pumps,C
+86,Advantage of axial over centrifugal compressors,Larger air per area,Higher stage ratio,Aerofoil blades,Higher velocities,A
+87,Actual compression curve resembles,Isothermal,Adiabatic,Better than both,Between both,D
+88,Air pressure if atmospheric = 1.03 and vapor = 0.03,1.03,1.06,1.00,0.53,C
+89,Pressure ratio vs mass flow in an ideal vaned compressor,Increases,Decreases,Constant,First decreases,C
+90,Rotary compressors are suitable for,Large high-pressure,Low high-pressure,Large low-pressure,Low low-pressure,C
+91,Volumetric efficiency vs compression ratio,Increases,Decreases,Remains same,Depends,B
+92,Blade stalling occurs when,Blocked passage,Sonic motion,Unsteady reversed flow,Air not following blade contour,D
+93,Incorrect statement,Constant pressure in centrifugal,Constant delivery in axial,Centrifugal has wider range,Axial has bigger diameter,D
+94,Work ratio of a gas turbine is,Net work / Heat supplied,Net work / Turbine work,Actual drop / Isentropic drop,Net work / Isentropic drop,B
+95,Gas turbines operate on,Brayton,Carnot,Rankine,Ericsson,A
+96,Work ratio depends on,Pressure ratio,Maximum temperature,Minimum temperature,All of the above,D
+97,Pressure ratio in open vs closed cycle,Low,High,Same,Depends,A
+98,Open-cycle gas turbines follow,Brayton,Rankine,Carnot,Ericsson,A
+99,Fuel consumption is calculated based on,Lower heating value,Higher heating value,Heating value,Highest calorific,A
+100,Gas turbines for power generation are used for,Base load,Peak load,Starting thermal plant,Emergency,B
+101,Composition of silver solder includes,Silver-copper-zinc,Silver-tin-nickel,Silver-lead-zinc,Silver-copper-aluminium,A
+102,Steel with ≤0.8% carbon cooled below lower critical point consists of,Ferrite and pearlite,Equal to,More than,None of these,B
+103,Pipes for bicycle frames are made from,Cold-rolled steel,Hot-rolled steel,Forged steel,Cast steel,A
+104,Which metal work-hardens faster,Copper,Brass,Lead,Silver,B
+105,Iron-carbon alloys with carbon >4.3% are known as,Hyper-eutectic cast irons,Equal to,Less than,None of these,C
+106,Bell metal contains,70% Cu + 30% Zn,90% Cu + 10% Sn,85-92% Cu + rest Sn + trace Pb/Ni,70-75% Cu + rest Sn,D
+107,Full annealing temperature for hypereutectoid steel is,30-50°C above upper critical,30-50°C below upper critical,30-50°C above lower critical,30-50°C below lower critical,C
+108,Blast furnace charge consists of,Calcined ore 8 parts + coke 4 parts + limestone 1 part,Calcined ore 4 parts + coke 1 part + limestone 8 parts,Calcined ore 1 part + coke 8 parts + limestone 4 parts,Equal parts,A
+109,Which element cannot improve high-temperature strength,Manganese,Magnesium,Nickel,Silicon,B
+110,Percentage carbon in wrought iron is approximately,0.02,0.1,0.2,0.4,A
+111,Heavy-duty leaf/coil springs contain carbon,0.2%,0.5%,0.8%,1.0%,D
+112,Silicon steel is commonly used for,Connecting rods,Cutting tools,Generator/transformer cores,Motor crankshafts,C
+113,Blast furnace produces,Cast iron,Pig iron,Wrought iron,Malleable iron,B
+114,Steel with 0.8% carbon has,No critical point,One critical point,Two critical points,Any number,B
+115,Nickel in steel,Gives wear resistance,Refines grain & improves corrosion,Improves cutting & reduces hardenability,Provides ductility, toughness, tensile & corrosion protection,D
+116,Which impurity in cast iron makes it hard & brittle,Silicon,Sulphur,Manganese,Phosphorus,B
+117,Tensile strength of steel can be safely increased by,Adding carbon up to 2.8%,Adding carbon up to 6.3%,Adding carbon up to 0.83%,Adding copper,C
+118,Metal used in nuclear energy,Uranium,Thorium,Niobium,All of these,D
+119,Cemented carbide tools are not suitable for cutting,Brass,Cast iron,Aluminium,Steel,D
+120,Y alloy contains,3.5-4.5% Cu + 0.4-0.7% Mg + 0.4-0.7% Mn,3.5-4.5% Cu + 1.2-1.7% Mn + 1.8-2.3% Ni + 0.6% Si,4-4.5% Mg + 3-4% Cu,5-6% Sn + 2-3% Cu,B
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Answer
+121,Amorphous materials are characterized by,Atoms in regular pattern,No definite atomic structure,Not attacked by phosphorus,Emits fumes on melting,B
+122,According to Indian standard, SG 400/15 means,Spheroidal graphite cast iron BHN 400 tensile 15 MPa,Spheroidal graphite cast iron tensile 400 MPa and 15% elongation,Spheroidal graphite cast iron compressive 400 MPa and 15% reduction,None of the above,B
+123,Brass is an example of,Substitutional solid solution,Interstitial solid solution,Intermetallic compound,All of the above,A
+124,In process annealing of hypo-eutectoid steel,Heated 30–50°C above upper critical and air cooled,Heated 30–50°C above upper critical and quenched,Heated 30–50°C above upper critical and furnace cooled,Heated below or near lower critical and cooled slowly,D
+125,Pick the incorrect statement,Aluminium causes excessive grain growth,Manganese induces hardness,Nickel & chromium raise elastic limit,Tungsten improves magnetic properties,A
+126,Coarse-grained steel is,Less tough & greater distortion,More ductile & less distortion,Less tough & less distortion,More ductile & greater distortion,A
+127,Wrong statement: Nickel & chromium in steel help in,Providing corrosion resistance,Improving machining properties,Providing high strength at elevated temperatures,Raising elastic limit,B
+128,Normalizing of steel is done to,Refine grain structure,Remove cold work strains,Remove internal dislocations,All of the above,D
+129,Steel contains,80% or more iron,50% or more iron,Alloying elements like Cr, W, Ni, Cu,Elements like P, S, Si,B
+130,Which has fine gold color used for imitation jewelry,Silicon bronze,Aluminium bronze,Gun metal,Babbitt metal,B
+131,Pressure at a point in a fluid at rest is measured by,Manometer,Barometer,Pressure gauge,Bourdon tube,A
+132,Hydraulic gradient line represents,Energy due to pressure only,Energy due to velocity only,Total energy per unit weight,Pressure head plus velocity head,B
+133,Flow in a pipe is laminar if,Re < 2000,Re > 2000,Re = 2300,Re < 4000,A
+134,Discharge through a pipe using Darcy-Weisbach equation depends on,Pipe length & diameter,Flow velocity,Fluid friction factor,All of the above,D
+135,Cavitation in pumps occurs due to,High suction pressure,Low suction pressure,High discharge pressure,Low discharge pressure,B
+136,Reynolds number is the ratio of,Inertial force to viscous force,Gravitational force to inertial force,Pressure force to viscous force,Surface tension to viscous force,A
+137,Pascal’s law states,Pressure applied on confined fluid transmitted equally in all directions,Pressure decreases with depth,Pressure is independent of area,Fluid exerts force normal to surface,A
+138,A venturimeter is used to measure,Flow rate of liquid,Pressure difference,Velocity distribution,Viscosity of fluid,A
+139,Hydraulic jump occurs when,Supercritical flow changes to subcritical,Subcritical changes to supercritical,Flow is laminar,Flow is turbulent,A
+140,For an orifice, coefficient of discharge is,Actual discharge / Theoretical discharge,Theoretical velocity / Actual velocity,Orifice area / Jet area,None of these,A
+141,Head loss due to friction in a pipe is given by,Darcy-Weisbach equation,Continuity equation,Bernoulli’s equation,Manning equation,A
+142,In an open channel, specific energy is minimum when,Flow is critical,Critical depth maximum,Flow is subcritical,Flow is supercritical,A
+143,Reynolds number for pipe flow is defined as,ρVD/μ,μVD/ρ,VD/ρμ,ρV/μD,A
+144,Manometer is used to measure,Pressure difference,Flow velocity,Flow rate,Fluid density,A
+145,Hydraulic efficiency of a turbine is,Power output / Hydraulic power input,Hydraulic power input / Power output,Power output / Mechanical power input,Mechanical power input / Power output,A
+146,For sharp-edged orifice, vena contracta occurs,Just at orifice exit,Some distance downstream,Some distance upstream,At inlet,B
+147,Velocity profile in laminar flow through circular pipe is,Parabolic,Linear,Flat,Exponential,A
+148,Energy line lies,Above piezometer line,Below piezometer line,At same level as piezometer line,Can be anywhere,A
+149,Total pressure on horizontal plane surface submerged in liquid is,ρgh × area,ρg × area,ρV²/2 × area,ρgH × area,D
+150,Drag force on a body in fluid is caused by,Viscous force only,Pressure force only,Both viscous & pressure forces,Surface tension only,C
+151,Surface tension of liquid is,Force per unit length,Force per unit area,Energy per unit volume,Energy per unit mass,A
+152,Unit of kinematic viscosity is,m²/s,N/m²,Pa·s,m/s,A
+153,In turbulent flow, mixing occurs due to,Viscous forces only,Inertia forces only,Both inertia & viscous forces,Surface tension forces,C
+154,Pressure at a point in fluid at rest is,Equal in all directions,Varies with direction,Zero,Depends on density,A
+155,Break-even analysis consists of,Fixed cost,Variable cost,Fixed + variable costs,Operation costs,None of the above,C
+156,Break-even analysis shows profit when,Sales revenue > total cost,Sales revenue = total cost,Sales revenue < total cost,Variable cost < fixed cost,None of the above,A
+157,In break-even analysis, total cost consists of,Fixed cost,Variable cost,Fixed + variable cost,Fixed + variable + overheads,Fixed cost + sales revenue,A
+158,Break-even point represents,Most economical operation level,Time unit can run without loss,Time industry will undergo loss,Time company can make max profits,Time for overhauling plant,C
+159,Depreciation of machines categorized under,Direct expenses,Indirect expenses,Receipts,Administrative expenses,Indirect material costs,B
+160,Depreciation per income tax regulations is calculated using,Straight line,Sinking fund,Machine hour,Rate of return,Declining balance,A
+161,In project appraisal, shadow prices are,Used for lost items,Used to convert inputs to cost & outputs to benefits,Used to determine feasibility,Taken as basis for all asset values,None of the above,B
+162,Cash discounts are reduction in price of goods,Sold on credit,Depends on assurance of payment,Depends on prompt cash payment,Obtainable on bad debt loans,Which have good bargaining capacity,C
+163,In product cost structure, selling price determined by,Sales turnover,Lowest competitive price,Various cost elements,Buyers’ capability to pay,All of the above,E
+164,Work study is concerned with,Improving methods & standard time,Motivation of workers,Improving production capability,Improving planning & control,All of the above,A
+165,Basic tool in work study is,Graph paper,Process chart,Planning chart,Stop watch,Analytical mind,D
+166,Symbol 'O' in work study represents,Operation,Inspection,Transport,Delay/temporary storage,None of the above,A
+167,In project appraisal, 'intangibles' are,Quantifiable in money,Quantifiable but not convertible to money,Neither quantifiable nor translatable,Not considered & ignored,Receive highest priority,B
+168,Simplex method is used for,Linear programming,Queuing theory,Network analysis,Value engineering,All of the above,A
+169,Symbol 'D' in work study represents,Inspection,Transport,Delay/temporary storage,Permanent storage,None of the above,C
+170,In perpetual inventory control, material is checked at,Minimum value,Maximum value,Average value,Middle value,Alarming value,A
+171,Material handling in automobile industry is done by,Overhead crane,Trolley,Belt conveyor,All of the above,None of the above,A
+172,String diagram is used when,Team of workers at a place,Material handling required,Idle time reduction,All of the above,None of the above,A
+173,For project feasibility, internal rate of return should be,Zero,One,Greater than interest rate,Expenses,Losses likely,C
+174,Work study is most useful,Where production activities are involved,Judging machine rating,Improving industrial relations,Judging & improving output of a worker,Where men contribute most,A
+175,Micromotion study is,Enlarged motion study,Analysis of one motion stage,Minute detailed motion study,Subdivision into therbligs & analysis,Motion study of small components,D
+176,In micromotion study, a therblig is described by,A symbol,An event,An activity,Micro motions,Standard symbol & color,E
+177,Allowed time for a job equals standard time plus,Policy allowance,Interference allowance,Process allowance,Learning allowance,Unforeseen allowance,A
+178,Micromotion study involves how many fundamental hand motions,8,12,16,20,24,C
+179,Standard time for a job is,Total work content,Basic time + relaxation time,Total work content + basic time,Total work content + delay/contingency allowance,Total work content + relaxation time,D
+180,Internal rate of return is the discount rate that makes net present value equal to,Zero,One,Infinity,Some positive value,Some negative value,A
+181,Work study is conducted using,Process chart,Material handling,Stop watch,All of the above,None of the above,C
+182,Scheduling provides information about,When work should start & amount of work to complete,When work should complete,How to minimize idle time,Proper utilization of machines,None of the above,A
+183,Expediting function involves,Monitoring operator activity,Tracking material flow & locating issues,Minimizing delays,Efficient dispatching,None of the above,B
+184,Pick the wrong statement: Time study is used to,Determine overhead expenses,Set piece rates or incentive wages,Determine standard costs,Assess operator capability,Compare alternative methods,A
+185,Job evaluation is a method for,Determining relative worth of jobs,Skills required by worker,Contribution of a worker,Contribution of a job,Effectiveness of alternatives,A
+186,Micromotion study is,Analysis using motion picture camera with timing,Observation on enhanced intervals,Study of sequence of operations systematically,Study of man & machine together,Scientific method to find optimum work,A
+187,Percent idle time for men or machines is found by,Work sampling,Time study,Method study,Work study,ABC analysis,A
+188,TMU in method time measurement stands for,Time motion unit,Time measurement unit,Time movement unit,Technique measurement unit,Time method unit,B
+189,Time study is,Appraisal of work value in terms of time,Machine setting time,Time taken by workers for a job,Method of fixing time for workers,Method to determine personnel requirement,A
+190,Work sampling observations are taken based on,Detailed calculations,Convenience,Table of random numbers,Past experience,Fixed percentage of daily production,C
+191,One TMU equals,0.0001 minute,0.0006 minute,0.006 minute,0.001 minute,0.06 minute,B
+192,Basic motion time study gives times in ten thousandths of,Second,Minute,Hour,Day,None of the above,B
+193,Pick wrong statement: Motion study is used for,Improving work method,Improvising method,Designing method,Providing schematic framework,Reducing inventory costs,E
+194,Gantt chart provides,Material handling info,Proper manpower utilization,Production schedule,Efficient machine working,All of the above,C
+195,ABC analysis deals with,Process chart analysis,Material flow,Job ordering schedule,Inventory control,All of the above,D
+196,Process layout is used for,Batch production,Continuous products,Effective machine utilization,All of the above,None of the above,A
+197,For product layout, material handling equipment must,Have full flexibility,Use conveyor belts/trucks/tractors,Be general purpose,Be special purpose for particular application,Arrange shops by specialization,D
+198,Travel charts provide,Idea of material flow at stages,Estimate handling between sections,Info for rearranging material handling,Estimate handling at station,Optimize handling techniques,B
+199,Product layout is used for,Batch production,Continuous production,Effective machine utilization,All of the above,None of the above,B
+200,Process layout is best where,Specialization exists,Machines arranged by sequence,Few nonstandard units to produce,Mass production with bought out items,C
+201,Low unit cost is achieved by,Product layout,Functional layout,Automatic material handling,Specialization of operation,Minimum travel & compact layout,A
+202,Military organization is,Line organization,Line & staff,Functional,All of the above,None of the above,A
+203,Main disadvantage of line organization,Top executives overworked,Rigid structure,Communication delays,All of the above,None of the above,D
+204,Three coplanar forces P, Q, R in equilibrium satisfy,P/sin β = Q/sin α = R/sin γ,P/sin α = Q/sin β = R/sin γ,P/sin γ = Q/sin α = R/sin β,P/sin α = Q/sin γ = R/sin β,B
+205,Center of percussion of homogeneous rod of length L suspended at top is,L/2,L/3,3L/4,2L/3,D
+206,Angle of plane at which body starts moving is,Angle of friction,Angle of repose,Angle of projection,None of these,A
+207,Wrong statement about dry friction: Friction force is,Proportional to normal load,Depends on contact material,Proportional to sliding velocity,Independent of contact area,C
+208,'Centroid' is,Same as center of gravity,Point of suspension,Point of application of resultant causing rotation,None of the above,A
+209,C.G. of plane lamina not at geometric center in,Right-angled triangle,Equilateral triangle,Square,Circle,A
+210,If masses reduced to 50%, tension in string is,Same,Half,Double,None of these,B
+211,Moment of inertia of thin rod mass m, length l about centroid axis perpendicular to length is,ml²/4,ml²/6,ml²/8,ml²/12,D
+212,Forces are coplanar when all lie in,One point,One plane,Different planes,Perpendicular planes,B
+213,Rubber ball dropped from 2 m with no velocity loss rebounds to,1 m,2 m,3 m,4 m,B
+214,Weight 1000 N lifted by effort 80 N, velocity ratio 20, machine is,Reversible,Non-reversible,Ideal,None of these,A
+215,C.G. of solid cone lies on axis at,1/4 total height above base,1/3 total height above base,1/2 total height above base,3/8 total height above base,A
+216,Periodic time T given by ω(angular velocity in rad/s) is,ω/2π,2π/ω,2π × ω,π/ω,B
+217,Resultant of two forces P>Q opposite direction is,P + Q,P – Q,P / Q,Q / P,B
+218,When two elastic bodies collide,The two bodies momentarily stop,The two compress & deform,The two regain original shape,All of the above,D
+219,Coefficient of friction depends on,Nature of surfaces,Area of contact,Shape of surfaces,All of the above,A
+220,Angular velocity in rad/s of body rotating at N rpm is,πN/60,πN/180,2πN/60,2πN/180,C
+221,Block of mass m1 on inclined plane connected to m2 vertically, tension in string is,m1/m2,m1.g.sin α,m1.m2/(m1 + m2),m1.m2.g.(1 + sin α)/(m1 + m2),D
+222,In frame stress determination by section, frame divided such that section cuts at most,Two members with unknown forces,Three members with unknown forces,Four members with unknown forces,Three members with known forces,B
+223,Machine efficiency >50% is called,Reversible,Non-reversible,Neither,Ideal,A
+224,Algebraic sum of moments of forces forming couple about any point is,Equal to moment of couple,Constant,Both correct,Both wrong,A
+225,In third-order lever, load W, effort P, fulcrum F arranged as,W between P & F,F between W & P,P between W & F,W,P,F all on one side,A
+226,Correct statement?,Algebraic sum of forces in couple is zero,Algebraic sum about any point same,A couple balanced only by opposite couple,All of the above,D
+227,Heavy ladder on floor & wall may not be in equilibrium if,Floor smooth, wall rough,Floor rough, wall smooth,Floor & wall smooth,Floor & wall rough,C
+228,Skidding on level circular path avoided if friction between wheels & ground is,Less than,Greater than,Equal to,None of these,B
+229,Coulomb friction is friction between,Bodies with relative motion,Two dry surfaces,Two lubricated surfaces,Solids & liquids,A
+230,Time of flight t of projectile on upward inclined plane,t = g cos β / 2u sin(α – β),t = 2u sin(α – β)/g cos β,t = g cos β / 2u sin(α + β),t = 2u sin(α + β)/g cos β,B
+231,Example of first-order lever,Arm of man,Pair of scissors,Pair of clinical tongs,All of the above,D
+232,Three forces on rigid body represented by triangle equivalent to couple with moment,Area of triangle,Twice area of triangle,Half area of triangle,None of these,B
+233,Cartesian equation of trajectory (u=velocity, α=angle),y = (gx²/2u² cos²α) + x tan α,y = (gx²/2u² cos²α) – x tan α,y = x tan α – (gx²/2u² cos²α),y = x tan α + (gx²/2u² cos²α),C
+234,Units of moment of inertia of area,kg-m²,m⁴,kg/m²,m³,B
+235,Slope on road curves provided as,Angle of friction,Angle of repose,Angle of banking,None of these,C
+236,Force on body may,Change motion,Balance other forces,Retard motion,All of the above,D
+237,Centre of gravity of isosceles triangle with base p & sides q from base is,[√(4p² – q²)]/6,(4p² – q²)/6,(p² – q²)/4,(p² + q²)/4,A
+238,Ladder on smooth ground leaning against vertical wall, friction acts,Towards wall upper end,Away from wall upper end,Upwards at upper end,Downwards at upper end,C
+239,Velocity on reaching ground from height h is,2√(gh),√(gh),√(2gh),2g√h,C
+240,Framed structure is,Perfect frame,Deficient frame,Redundant frame,None of the above,A
+241,Lami’s theorem states,Three forces acting at a point will be in equilibrium,Three forces represented by triangle with sides proportional to force,Three forces represented in magnitude & direction by sides of triangle in order are in equilibrium,Each force proportional to sine of angle between other two,D
+242,The ratio of static friction to dynamic friction is always,Equal to one,Less than one,Greater than one,None of these,C
+243,Correct statement about law of polygon of forces,Forces represented by polygon sides in order are in equilibrium,Forces represented by direction & magnitude by polygon sides are in equilibrium,Closed polygon represents forces in equilibrium,Forces represented by direction & magnitude in order are in equilibrium,D
+244,Moment of inertia of triangular section with base B & height h about axis through base is,bh³/4,bh³/8,bh³/12,bh³/36,C
+245,Coefficient of friction is,Angle between normal reaction & resultant,Ratio of limiting friction & normal reaction,Friction when body about to move,Friction when body in motion,B
+246,Forces meeting at one point in same plane are called,Coplanar concurrent,Coplanar non-concurrent,Non-coplanar concurrent,Non-coplanar non-concurrent,A
+247,Flywheel on motor from rest to 1000 rpm in 6 sec, number of revolutions is nearly,25,50,100,250,B
+248,Ladder on smooth ground leaning against rough wall, friction acts,Towards wall upper end,Away from wall upper end,Downwards upper end,Upwards upper end,D
+249,Pick incorrect statement: C.G. of semicircle is at a distance from center,Circle C.G. at center,Triangle C.G. at medians intersection,Rectangle C.G. at diagonal intersection,Semicircle C.G. at r/2 from center,D
+250,Range R of projectile on upward inclined plane,g cos²β/2u² sin(α+β) cos α,2u² sin(α+β) cos α / g cos²β,g cos²β/2u² sin(α–β) cos α,2u² sin(α–β) cos α / g cos²β,D
+251,Three forces acting in one plane in equilibrium must,Meet at one point,Be all parallel,At least two meet,All of the above,D
+252,To double period of simple pendulum, length of string should be,Halved,Doubled,Quadrupled,None of these,C
+253,Angle of inclined plane when body about to move is,Angle of friction,Limiting friction angle,Angle of repose,Kinematic friction,C
+254,Energy possessed by body due to position is,Potential,Kinetic,Electrical,Chemical,A
+255,Centre of gravity of uniform lamina lies at,Center of heavy portion,Bottom surface,Midpoint of axis,All of the above,C
+256,Work study is conducted using,Process chart,Material handling,Stop watch,All of the above,C
+257,Scheduling provides info on,Start time & amount of work,Completion time,Minimizing idle time,Machine utilization,A
+258,Expediting function involves,Monitoring operator,Material flow & locating issues,Minimizing delays,Efficient dispatching,B
+259,Pick wrong statement: Time study is used to,Determine overhead,Set piece rates,Determine standard costs,Assess operator capability,Compare alternative methods,A
+260,Job evaluation determines,Relative worth of jobs,Skills required by worker,Contribution of worker,Contribution of job,A
+261,Micromotion study is,Analysis using motion picture,Observation on enhanced intervals,Systematic sequence of operations,Man & machine study together,Scientific optimum work procedure,A
+262,Percent idle time found by,Work sampling,Time study,Method study,Work study,A
+263,TMU in method time measurement,Time motion unit,Time measurement unit,Time movement unit,Technique measurement unit,B
+264,Time study is,Appraisal of work in terms of time,Machine setting time,Worker job timing,Method to fix time for workers,A
+265,Work sampling observations based on,Detailed calculations,Convenience,Table of random numbers,Past experience,C
+266,One TMU equals,0.0001 min,0.0006 min,0.006 min,0.001 min,B
+267,Basic motion time study gives times in ten-thousandths of,Second,Minute,Hour,Day,B
+268,Pick wrong statement: Motion study is for,Improving method,Improvising method,Designing method,Providing schematic framework,Reducing inventory,E
+269,Gantt chart provides,Material handling,Manpower utilization,Production schedule,Efficient machine operation,C
+270,ABC analysis deals with,Process chart,Material flow,Job ordering,Inventory control,D
+271,Process layout is used for,Batch,Continuous,Effective machine use,All of the above,A
+272,For product layout, equipment must,Flexible,Conveyors/trucks,General purpose,Special purpose,D
+273,Travel charts provide,Material flow idea,Estimate handling between sections,Info for rearranging,Handling at station,B
+274,Product layout is used for,Batch,Continuous,Effective machine utilization,All of the above,B
+275,Process layout best where,Specialization exists,Machines by sequence,Few nonstandard units,Mass production,C
+276,Low unit cost achieved by,Product layout,Functional layout,Automatic handling,Specialization & compact layout,A
+277,Military organization is,Line,Line & staff,Functional,All of the above,A
+278,Main disadvantage of line org,Top executives overworked,Rigid,Communication delays,All of above,D
+279,Three coplanar forces P, Q, R in equilibrium satisfy,P/sin β = Q/sin α = R/sin γ,P/sin α = Q/sin β = R/sin γ,P/sin γ = Q/sin α = R/sin β,P/sin α = Q/sin γ = R/sin β,B
+280,Center of percussion of homogeneous rod suspended at top,L/2,L/3,3L/4,2L/3,D
+281,Angle of plane when body starts moving,Angle of friction,Angle of repose,Angle of projection,None of these,A
+282,Wrong statement dry friction,Proportional to normal load,Depends on material,Proportional to sliding velocity,Independent of contact area,C
+283,'Centroid' is,Same as C.G.,Point of suspension,Point of application of resultant,None,A
+284,C.G. of lamina not at geometric center in,Right-angled triangle,Equilateral triangle,Square,Circle,A
+285,Tension if masses reduced to 50%,Same,Half,Double,None,B
+286,Moment of inertia thin rod mass m, length l about centroid axis,ml²/4,ml²/6,ml²/8,ml²/12,D
+287,Forces are coplanar when lie in,One point,One plane,Different planes,Perpendicular planes,B
+288,Rubber ball dropped from 2 m rebounds to,1 m,2 m,3 m,4 m,B
+289,Weight 1000 N lifted by effort 80 N, VR 20, machine is,Reversible,Non-reversible,Ideal,None,A
+290,C.G. of solid cone on axis,1/4 height above base,1/3 height,1/2 height,3/8 height,A
+291,Periodic time T from ω,ω/2π,2π/ω,2π × ω,π/ω,B
+292,Resultant of P>Q opposite direction,P + Q,P – Q,P / Q,Q / P,B
+293,Two elastic bodies collide,Stop momentarily,Compress & deform,Regain shape,All of above,D
+294,Coefficient of friction depends on,Nature of surfaces,Area of contact,Shape of surfaces,All of above,A
+295,Angular velocity rad/s of body at N rpm,πN/60,πN/180,2πN/60,2πN/180,C
+296,Block m1 on incline connected to m2 vertically, tension in string,m1/m2,m1.g.sin α,m1.m2/(m1 + m2),m1.m2.g.(1 + sin α)/(m1 + m2),D
+297,Frame stress by section, cut at most,Two unknown members,Three unknown members,Four unknown members,Three known members,B
+298,Machine efficiency >50% called,Reversible,Non-reversible,Neither,Ideal,A
+299,Algebraic sum of moments of couple,Equal to moment of couple,Constant,Both correct,Both wrong,A
+300,Third-order lever, W, P, F arrangement,W between P & F,F between W & P,P between W & F,W,P,F all on one side,A
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Answer
+301,Angular velocity (rad/s) of a body rotating at N rpm is,πN/60,πN/180,2πN/60,2πN/180,C
+302,Block of mass m1 on smooth inclined plane connected to mass m2 moving vertically, tension in string is,m1/m2,m1.g.sin α,m1.m2/(m1 + m2),m1.m2.g.(1 + sin α)/(m1 + m2),D
+303,Frame divided by imaginary section should not cut more than,Two members with unknown forces,Three members with unknown forces,Four members with unknown forces,Three members with known forces,B
+304,Machine with efficiency greater than 50% is called,Reversible machine,Non-reversible machine,Neither reversible nor non-reversible,Ideal machine,A
+305,Algebraic sum of moments of forces forming a couple about any point is,Equal to moment of couple,Constant,Both correct,Both wrong,A
+306,Third-order lever arrangement of load W, effort P, fulcrum F is,W between P and F,F between W and P,P between W and F,W, P and F all on one side,A
+307,Correct statement regarding couple,Algebraic sum of forces constituting couple is zero,Algebraic sum of forces about any point is same,Couple balanced only by opposite sense couple,All of the above,D
+308,Ladder resting on floor and against vertical wall may not be in equilibrium if,Floor smooth wall rough,Floor rough wall smooth,Floor and wall both smooth,Floor and wall both rough,C
+309,Skidding of vehicle on level circular path can be avoided if friction between wheels and ground is,Less than,Greater than,Equal to,None of these,B
+310,Coulomb friction occurs between,Bodies with relative motion,Two dry surfaces,Two lubricated surfaces,Solids and liquids,A
+311,Time of flight t of projectile on upward inclined plane,t = g cos β/2u sin(α – β),t = 2u sin(α – β)/g cos β,t = g cos β/2u sin(α + β),t = 2u sin(α + β)/g cos β,B
+312,Example of first-order lever,Arm of man,Pair of scissors,Pair of clinical tongs,All of the above,D
+313,Three forces on rigid body forming triangle equivalent to couple whose moment is,Area of triangle,Twice area,Half area,None,B
+314,Cartesian equation of trajectory (u=velocity, α=angle of projection),y = (gx²/2u² cos²α) + x tan α,y = (gx²/2u² cos²α) – x tan α,y = x tan α – (gx²/2u² cos²α),y = x tan α + (gx²/2u² cos²α),C
+315,Units of moment of inertia of area are,kg-m²,m⁴,kg/m²,m³,B
+316,Slope on road surface provided on curves is,Angle of friction,Angle of repose,Angle of banking,None,C
+317,A force acting on a body may,Change motion,Balance other forces,Retard motion,All of the above,D
+318,Centre of gravity of isosceles triangle with base p and sides q from base is,[√(4p² – q²)]/6,(4p² – q²)/6,(p² – q²)/4,(p² + q²)/4,A
+319,Ladder on smooth ground leaning against vertical wall, force of friction is,Towards wall at upper end,Away from wall at upper end,Upwards at upper end,Downwards at upper end,C
+320,Velocity of body reaching ground from height h is,2√(gh),√(gh),√(2gh),2g√h,C
+321,Framed structure is,Perfect frame,Deficient frame,Redundant frame,None,A
+322,Lami’s theorem states,Three forces acting at point in equilibrium,Three forces represented by triangle with sides proportional to forces,Three forces represented in magnitude & direction by triangle in order are in equilibrium,Each force proportional to sine of angle between other two,D
+323,Ratio of static to dynamic friction is,Equal to one,Less than one,Greater than one,None,C
+324,Correct statement about polygon of forces,If forces at a point represented by polygon sides in order then forces in equilibrium,If forces represented by direction & magnitude of polygon sides then in equilibrium,Closed polygon represents forces in equilibrium,Forces represented by direction & magnitude in order then in equilibrium,D
+325,Moment of inertia of triangular section with base B & height h about axis through base is,bh³/4,bh³/8,bh³/12,bh³/36,C
+326,Coefficient of friction is,Angle between normal reaction & resultant,Ratio of limiting friction & normal reaction,Friction when body about to move,Friction when body moving,B
+327,Forces meeting at one point with lines in same plane are called,Coplanar concurrent,Coplanar non-concurrent,Non-coplanar concurrent,Non-coplanar non-concurrent,A
+328,Flywheel on motor goes from rest to 1000 rpm in 6 sec, revolutions made nearly,25,50,100,250,B
+329,Ladder resting on smooth ground leaning against rough vertical wall, friction acts,Towards wall upper end,Away from wall upper end,Downwards at upper end,Upwards at upper end,D
+330,Pick incorrect statement: C.G. of semicircle at distance from centre,Circle C.G. at centre,Triangle C.G. at medians intersection,Rectangle C.G. at diagonals intersection,Semicircle C.G. at r/2 from centre,D
+331,Range R of projectile on upward inclined plane,g cos²β/2u² sin(α + β) cos α,2u² sin(α + β) cos α / g cos²β,g cos²β/2u² sin(α – β) cos α,2u² sin(α – β) cos α / g cos²β,D
+332,Three forces in one plane on rigid body in equilibrium must,Meet at a point,Be all parallel,At least two meet,All of above correct,D
+333,To double period of simple pendulum, length of string should be,Halved,Doubled,Quadrupled,None,C
+334,Angle of inclined plane with horizontal when body about to move is known as,Angle of friction,Limiting friction angle,Angle of repose,Kinematic friction,C
+335,Energy possessed by body due to position is,Potential,Kinetic,Electrical,Chemical,A
+336,Centre of gravity of uniform lamina lies at,Center of heavy portion,Bottom surface,Midpoint of axis,All of the above,C

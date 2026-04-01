@@ -1,0 +1,90 @@
+# --------------------
+# Miscellaneous
+# --------------------
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# --------------------
+# IntelliJ related
+# --------------------
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# --------------------
+# VS Code (optional)
+# --------------------
+#.vscode/
+
+# --------------------
+# Flutter / Dart / Pub
+# --------------------
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# --------------------
+# Android build outputs
+# --------------------
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# --------------------
+# Symbolication
+# --------------------
+app.*.symbols
+
+# --------------------
+# Obfuscation
+# --------------------
+app.*.map.json
+
+# --------------------
+# Python / Backend
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+backend/.venv/
+
+# --------------------
+# Environment files
+# --------------------
+.env
+backend/.env
+
+# --------------------
+# Databases
+# --------------------
+*.db
+*.sqlite3
+
+# --------------------
+# Uploads (IMPORTANT)
+# --------------------
+uploads/
+backend/uploads/
+
+# --------------------
+# Logs
+# --------------------
+*.log

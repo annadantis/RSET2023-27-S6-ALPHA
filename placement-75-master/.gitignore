@@ -1,0 +1,29 @@
+# --------------------
+# Python
+# --------------------
+.venv/
+venv/
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# --------------------
+# Environment files
+# --------------------
+.env
+backend/.env
+
+# --------------------
+# Flutter / Dart
+# --------------------
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db

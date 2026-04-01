@@ -1,0 +1,294 @@
+1,Which forces are related by Euler’s dimensionless number?,Inertial force and gravitational force,Viscous force and inertial force,Viscous force and buoyant force,Pressure force and inertial force,D
+2,A floating body slightly disturbed in a liquid oscillates about which point?,Centre of gravity,Centre of pressure,Centre of buoyancy,Metacentre,D
+3,In the diverging section of a venturimeter the fluid pressure generally,Remains unchanged,Increases,Decreases,Depends on liquid mass,C
+4,Flow is termed supersonic when the Mach number lies between which range?,1 to 2.5,2.5 to 4,4 to 6,1 to 6,D
+5,A body placed in a liquid will sink when,Weight equals buoyant force,Weight is less than buoyant force,Weight exceeds buoyant force,None of these,C
+6,The resistance offered by a liquid to relative motion between layers is called,Surface tension,Coefficient of viscosity,Viscosity,Osmosis,C
+7,A weir is classified as narrow-crested when the crest width is,Equal to half the head,Less than half the head,Greater than half the head,None of these,B
+8,For a submerged surface the centre of pressure is located,At the centre of gravity,Above the centre of gravity,Below the centre of gravity,Depends on density only,C
+9,For a vertically submerged plane surface the centre of pressure distance from free surface is given by which expression?,(bd²/12)+x̅,(d²/12x̅)+x̅,b²/12+x̅,d²/12+x̅,B
+10,The torque needed to overcome viscous resistance in a collar bearing is proportional to which term?,(R1−R2),(R1²−R2²),(R1³−R2³),(R1⁴−R2⁴),D
+11,Steady flow exists when,Velocity is same everywhere,Velocity at a point does not change with time,Velocity is identical at all locations,Streamlines remain parallel,B
+12,A flow is called supersonic when,Velocity is extremely high,Discharge is hard to measure,Mach number lies between 1 and 6,None of these,C
+13,In a forced vortex motion the fluid velocity is,Maximum everywhere,Minimum everywhere,Zero everywhere,Finite and non-zero,D
+14,Depth of centre of pressure for a vertical plane surface is expressed as which relation?,(IG/Ax̅)−x̅,(IG/x̅)−Ax̅,(Ax̅/IG)+x̅,(IG/Ax̅)+x̅,D
+15,Mach number is mainly important in which applications?,Supersonic motion like jets and projectiles,Closed conduit flows,Ship motion problems,All cases,A
+16,A fluid obeying Newton’s law of viscosity is known as,Real fluid,Ideal fluid,Newtonian fluid,Non-Newtonian fluid,C
+17,Flow through a pipeline occurs only if pressure difference exceeds,Only frictional force,Viscous resistance,Surface resistance,All of these,D
+18,For a triangular notch the relation between discharge error and head error is,dQ/Q=3/2(dH/H),dQ/Q=2(dH/H),dQ/Q=5/2(dH/H),dQ/Q=3(dH/H),A
+19,For dynamic similarity between model and prototype which ratios must be equal?,Inertia to viscous force ratio,Inertia to gravity force ratio,Inertia to surface tension ratio,All relevant force ratios,D
+20,The coefficient of velocity of a sharp-edged orifice generally,Decreases with head,Increases with head,Remains constant,None of these,B
+21,If cohesion exceeds adhesion in a liquid within a glass tube, the liquid level will be,Higher than outside level,Same as outside level,Lower than outside level,Uncertain,C
+22,Euler number represents the ratio of inertia force to which force?,Pressure force,Elastic force,Surface tension force,Viscous force,A
+23,A one-dimensional flow means,Uniform flow,Steady uniform flow,Flow in straight line only,No velocity component transverse to flow,D
+24,According to Manning’s equation discharge in open channel is proportional to which expression?,A×M×m1/2×i2/3,A×M×m2/3×i1/2,A1/2×M2/3×m×i,A2/3×M1/3×m×i,B
+25,The dimensional formula of surface tension is,ML⁰T⁻²,ML⁰T,MLT²,ML²T²,A
+26,An opening in a tank where liquid surface remains below the top edge is called,Weir,Notch,Orifice,None of these,B
+27,Resistance offered by fluid to shear deformation is called,Surface tension,Adhesion,Cohesion,Viscosity,D
+28,Coefficient of velocity is defined as ratio of,Actual jet velocity to theoretical velocity,Jet area to orifice area,Actual discharge to theoretical discharge,None of these,A
+29,The bulk modulus of elasticity of the liquid is,400 kg/cm²,4000 kg/cm²,40×10⁵ kg/cm²,40×10⁶ kg/cm²,B
+30,A liquid of mass 2 tonnes occupying 2.5 m³ has density,200 kg/m³,400 kg/m³,600 kg/m³,800 kg/m³,D
+31,A fluid at rest cannot resist,Tensile stress,Compressive stress,Shear stress,Bending stress,C
+32,A plate parallel to fluid flow experiences pressure that is,Less than perpendicular case,Greater than perpendicular case,Equal to perpendicular case,None of these,A
+33,A body of mass 10 kg shows weight 9.81 kgf; value of g is,10 m/s²,9.81 m/s²,9.75 m/s²,9 m/s²,A
+34,Flow is termed hypersonic when Mach number is,Less than 1,Equal to 1,Between 1 and 6,Greater than 6,D
+35,Which statement about liquids is correct?,Cannot be compressed,Have definite volume,Unaffected by pressure and temperature,None of these,D
+36,When a liquid rotates in a cylindrical vessel its free surface forms,A triangle,A paraboloid,An ellipse,None of these,B
+37,A fluid is defined as a substance that,Cannot experience shear force,Always expands fully,Has constant shear stress,Cannot remain at rest under shear force,D
+38,Force exerted by moving fluid proportional to rate of momentum change is known as,Newton’s law of motion,Newton’s law of cooling,Newton’s law of viscosity,Newton’s law of resistance,D
+39,Property enabling fluid to resist tensile stress is called,Compressibility,Surface tension,Cohesion,Adhesion,C
+40,In laminar flow pressure head loss varies with,Velocity,Velocity squared,Velocity cubed,Velocity to fourth power,A
+41,Surface tension of mercury compared with water is,Higher,Lower,Same,Depends on tube size,A
+42,An air vessel in a siphon is provided to,Prevent flow interruption,Increase discharge,Increase velocity,Maintain pressure difference,A
+43,The unit of dynamic viscosity is,m²/s,kg-s/m,N-s/m²,N-s/m,B
+44,Weber number represents ratio of,Inertia to elastic force,Gravity to surface tension force,Viscous to pressure force,Inertia to surface tension force,D
+45,Which statement is incorrect regarding alcohol in manometers?,Low vapour pressure,Good meniscus formation,Low density,Provides longer column length,A
+46,When a tank accelerates horizontally, the liquid free surface,Remains horizontal,Becomes curved,Rises at rear and falls at front,Rises at front and falls at rear,C
+47,A pressure head of 25 m of water equals,25 kN/m²,245 kN/m²,2500 kN/m²,2.5 kN/m²,B
+48,Water hammer in pipes occurs when,Leakage increases,Pipe bursts suddenly,Valve closes suddenly stopping flow,Valve closes gradually,C
+49,The upward force exerted by fluid on an immersed body is called,Up-thrust,Buoyancy,Centre of pressure,All of these,B
+50,A weir is called submerged when,Water level is below crest,Crest is narrow,Crest has ogee shape,Downstream water level is above crest,D
+51,If liquid surface is convex, cohesion pressure is,Cannot be considered,Reduced,Increased,Zero,C
+52,Which irrigation method is suitable for uneven or rolling terrain?,Border flooding,Check flooding,Furrow irrigation,Free flooding,A
+53,Water is classified as high sodium water when Sodium Absorption Ratio lies between which values?,0 to 10,10 to 18,18 to 26,26 to 34,C
+54,The recommended depth of kor irrigation for rice crop is,135 mm,165 mm,190 mm,215 mm,C
+55,If concentrations of Na++, Ca++ and Mg++ are 20, 3 and 1 meq/L respectively, the irrigation water is classified as,Low sodium water,Medium sodium water,High sodium water,Very high sodium water,B
+56,Duty of water is maximum at which location?,Head of watercourse,On the field,Head of main canal,Same everywhere,B
+57,Outlet discharge factor refers to duty measured at the head of which channel?,Main canal,Branch canal,Watercourse,Distributory,C
+58,For rice with kor depth 190 mm and kor period 14 days, the outlet factor is approximately,637 ha/m³/s,837 ha/m³/s,972 ha/m³/s,1172 ha/m³/s,A
+59,When designing a canal supplying rabi, kharif and sugarcane crops, capacity is based on the greater requirement of,Rabi or kharif,Rabi and kharif or sugarcane,Rabi and sugarcane or kharif and sugarcane,Rabi or kharif or sugarcane,C
+60,The ratio of water stored in crop root zone to water supplied to field is known as,Water conveyance efficiency,Water application efficiency,Water use efficiency,None of these,B
+61,Water available for plant uptake in soil mainly exists as,Gravitational water,Capillary water,Hygroscopic water,Chemically combined water,B
+62,The quantity of irrigation water needed to satisfy total evapotranspiration demand of a crop is called,Effective rainfall,Consumptive use,Consumptive irrigation requirement,Net irrigation requirement,C
+63,With increasing irrigation supply, crop yield generally,Continuously increases,Continuously decreases,Increases and then remains constant,Increases up to a limit and then decreases,D
+64,A hydrograph represents the relationship between,Runoff and time,Surface runoff and time,Groundwater flow and time,Rainfall and time,A
+65,The infiltration rate is always,Greater than infiltration capacity,Less than infiltration capacity,Equal to or less than infiltration capacity,Equal to or greater than infiltration capacity,C
+66,Water depth needed to raise soil moisture to field capacity is called,Hygroscopic water,Equivalent moisture,Soil moisture deficiency,Pellicular water,C
+67,Infiltration capacity,Remains constant,Varies with time,Varies with location,Varies with both time and location,D
+68,Infiltration refers to,Movement of water within soil,Entry of water through soil surface,Both movement and entry,None of these,A
+69,If rainfall intensity exceeds infiltration capacity, infiltration rate becomes,Equal to rainfall rate,Equal to infiltration capacity,Greater than rainfall rate,Greater than infiltration capacity,B
+70,Cyclonic rainfall occurs due to lifting of air masses caused by,Pressure differences,Temperature differences,Topographical barriers,All of these,A
+71,Which of the following is a non-recording rain gauge?,Tipping bucket type,Simon’s rain gauge,Weighing type rain gauge,Floating type rain gauge,B
+72,A rain gauge should ideally be installed,Near buildings,Under trees,In open ground,Inside enclosed areas,C
+73,Which rain gauge type is suitable for remote or hilly inaccessible regions?,Tipping bucket type,Weighing type,Floating type,Simon’s rain gauge,A
+74,Evaporation rate increases when which conditions occur?,Increase in vapour pressure difference and decrease in wind velocity,Increase in vapour pressure difference and decrease in dissolved solids,Decrease in wind velocity and dissolved solids,All of the above,B
+75,An index of wetness equal to 70% indicates,Rainfall excess of 30%,Rainfall deficiency of 30%,Rainfall deficiency of 70%,None of these,B
+76,Under identical conditions which water surface shape gives maximum evaporation?,Flat surface,Convex surface,Concave surface,Independent of shape,B
+77,Assertion: More rain gauges are required in hilly areas. Reason: Rainfall variation is steep. Choose correct option,Both true and reason explains assertion,Both true but reason not correct explanation,Assertion true but reason false,Assertion false but reason true,A
+78,When transpiring surface is submerged in water, potential evapotranspiration is,Much higher than evapotranspiration,Much lower than evapotranspiration,Equal to evapotranspiration,Equal to or less than evapotranspiration,A
+79,In MKS system the unit of runoff is,Cubic metre per second,Metre per second,Cubic metre,Square metre,A
+80,Runoff increases with,Increase in rainfall intensity,Increase in infiltration capacity,Increase in soil permeability,All of these,A
+81,If areas between isohyets 45–55 cm and 55–65 cm are 100 km² and 150 km² respectively, average annual rainfall is,50 cm,55 cm,56 cm,60 cm,C
+82,A current meter is used for measuring,Flow velocity,Depth of flow,Discharge,None of these,A
+83,If rainfall occurs from 2 PM to 3 PM and runoff begins at outlet at 3 PM, time of concentration is,15 minutes,20 minutes,30 minutes,60 minutes,D
+84,Given rainfall of 100, 80, 60, 40 and 20 mm with infiltration index 50 mm/day, total runoff equals,50 mm,60 mm,90 mm,140 mm,C
+85,Normal rainfall at stations X, A, B and C are 700, 1000, 900 and 800 mm respectively. If storm rainfall at A, B and C is 100, 90 and 80 mm, rainfall at X is,70 mm,80 mm,90 mm,105 mm,A
+86,The most suitable storm duration for unit hydrograph derivation is,1 hour,One-fourth of basin lag,Half of basin lag,Equal to basin lag,B
+87,Unit hydrograph is obtained by dividing direct runoff hydrograph ordinates by,Direct runoff volume,Storm duration,Total rainfall,None of these,A
+88,A unit hydrograph of a given duration can be used to estimate hydrograph for storms of,Same duration only,Same and shorter duration,Same and longer duration,Any duration,D
+89,PERT network technique is primarily applied for which type of work?,Small projects,Large and complicated projects,Research and development work,Activities with fixed duration,C
+90,Which statement regarding CPM network representation is correct?,Activity arrows are drawn to scale,Arrow tail shows completion of activity,Arrow head indicates start of activity,None of these,D
+91,Which is a limitation of bar charts?,Shows activity interdependence clearly,Shows project progress accurately,Handles uncertainties well,Does not show dependencies and uncertainties clearly,D
+92,In the given network, activity 4-5 can begin only after completion of which activities?,3-4 only,2-4 only,2-3 only,Both 2-4 and 2-3 are completed,D
+93,Which of the following does NOT represent a PERT event?,Site investigation starts,Sessional work finishes,Bus departs from Jaipur,Class is being attended,D
+94,In PERT analysis, activity time estimates follow which probability distribution?,Normal distribution,Poisson distribution,Beta distribution,None of these,C
+95,The beta distribution curve is divided into two equal areas by which time estimate?,Most likely time,Optimistic time,Pessimistic time,Expected time,D
+96,According to Fulkerson’s numbering rule, which event sequence is correct for the given network?,1-2-3-4-5-6-7,1-3-2-4-5-6-7,1-2-3-5-6-4-7,1-3-2-5-6-4-7,B
+97,With reference to the given network, which statement is incorrect?,Events 3 and 4 follow event 2,Event 7 can occur after event 4,Event 7 occurs before event 6,Event 5 follows event 3,B
+98,For activity 2-4 in the network, the concurrent and preceding activities respectively are,1-2 and 4-7,2-3 and 1-2,2-3 and 4-7,1-2 and 3-6,B
+99,Which of the following does not represent an activity?,Site identified,Foundation excavation in progress,Office cleaning work,Invitation dispatch,A
+100,Earliest finish time of an activity is always,Greater than earliest event time of succeeding node,Less than earliest event time of succeeding node,Less than or equal to earliest event time of succeeding node,Greater than or equal to earliest event time of succeeding node,C
+101,Which statement regarding activity timing is incorrect?,Earliest start equals early event time of starting node,Latest finish equals late event time of ending node,Latest start equals latest finish minus duration,None of these,D
+102,From the given network, the earliest start time of activity 5-6 is,7,8,9,5,C
+103,Latest start time of an activity is always,Greater than or equal to late event time of preceding node,Less than or equal to late event time of preceding node,Equal to late event time of preceding node,Less than late event time of preceding node,A
+104,From the network shown, the latest start time of activity 4-5 is,2,4,8,7,B
+105,In the given network, activity 6-8 can start only after completion of which?,4-6 only,3-5 only,2-3 only,Both 2-3 and 4-6,D
+106,If time estimates (a,m,b) for activities A and B result in same expected time, which conclusion is correct?,Expected time of A is greater,Expected time of B is greater,Expected times of both are equal,None of these,C
+107,For an activity with optimistic, most likely and pessimistic times of 2, 3 and 7, the expected time and variance are,3.5 and 5/6,5 and 25/36,3.5 and 25/36,4 and 5/6,C
+108,Which statement about start float and finish float is incorrect?,They are always equal,Either can represent total float,They need not be equal,They are based on activity times,C
+109,Free float is mainly useful to identify activities which can be delayed without affecting,Total float of preceding activities,Total float of succeeding activities,Project priorities,Either preceding or succeeding activities,B
+110,If an activity has zero total float, then,Free float must be zero but independent float may not be,Independent float must be zero but free float may not be,Both free and independent float must be zero,Both need not be zero,C
+111,Total float of an activity is the difference between,Latest finish and earliest start of successor,Latest start and earliest start,Latest start and earliest finish,Earliest finish and earliest start of successor,B
+112,From the given network, the independent float of activity 3-5 is,0,1,2,None of these,B
+113,In the given network, which path is the critical path?,1-2-3-4-5-6,1-2-4-5-6,1-2-3-5-6,1-2-4-3-5-6,A
+114,Which statement regarding critical path is incorrect?,It begins at first event,It ends at last event,Critical activities govern project duration,Critical activity always has zero free float,D
+115,Free float of an activity is defined as the difference between,Earliest finish and earliest start of successor,Latest start and earliest start,Latest finish and earliest start of successor,Earliest finish and latest start of successor,A
+116,Critical path is generally,The longest path,The shortest path,Possibly longest,Possibly shortest,A
+117,Independent float affects,Only preceding activities,Only succeeding activities,Only the activity itself,None of the above,C
+118,For phone calls with minimum 6 min, most frequent 15 min and maximum 60 min, the expected duration is,15 minutes,20.143 minutes,21 minutes,27 minutes,C
+119,The variance corresponding to the above activity duration is,81,54,36,9,A
+120,The delay allowed without affecting preceding and succeeding activities is called,Total float,Free float,Interfering float,Independent float,D
+121,The project duration during which direct cost remains constant is called,Crash time,Normal time,Optimistic time,Standard time,B
+122,Minimum total project cost occurs at which duration?,Crash duration,Normal duration,Optimistic duration,Between normal and crash duration,D
+123,At normal project duration, the direct cost is,Minimum,Maximum,Zero,Infinite,A
+124,Reducing project time usually results in,Lower direct and higher indirect cost,Higher direct and lower indirect cost,Higher both costs,Lower both costs,B
+125,Maximum economic benefit of crashing is obtained by crashing,Least cost critical activity,Least cost non-critical activity,Most expensive critical activity,Most expensive non-critical activity,A
+126,Revising plans and rescheduling due to changes is called,Resource leveling,Resource smoothing,Updating,Critical path scheduling,C
+127,Slack time is associated with,An activity,An event,Both activity and event,None of these,B
+128,The normal completion time of the project in the given problem is,9 days,13 days,14 days,19 days,C
+129,During resource smoothing, which constraint is maintained?,Resource availability,Project duration,Both resource and duration,None of these,B
+130,Updating of a project may result in,Change in critical path,Reduction in completion time,Increase in completion time,All of these,D
+131,Crash project duration is obtained by summing,Normal durations of all activities,Crash durations of all activities,Crash durations on critical path considering normal durations,Crash durations on critical path considering crash durations,D
+132,Interfering float is equal to the difference between,Total float and free float,Total float and independent float,Free float and independent float,None of these,A
+133,Assertion: Activity 5-7 is critical. Reason: Earliest and latest finish times are equal. Choose correct option,A true R false,A false R true,Both true,Both false,A
+134,A 20-tonne tractor has drawbar pull 2500 kg at rolling resistance 30 kg/tonne. If resistance increases to 40 kg/tonne, drawbar pull will,Decrease by 200 kg,Increase by 200 kg,Increase by 250 kg,Decrease by 250 kg,A
+135,Which earthmoving equipment has the shortest operating cycle?,Dragline,Hoe,Clamshell,Dipper shovel,D
+136,Residual soils are mainly produced due to which process?,Glacial action,Wind action,Water transport,None of these,D
+137,The moisture content of soil may,never exceed 100 percent,remain only between 0 and 100 percent,be negative,exceed 100 percent,D
+138,Soil transported mainly due to gravity is known as,Loess,Talus,Drift,Dune sand,B
+139,A soil mass in which all voids are filled with water is considered as,A single phase system,A two phase system consisting of soil and air,A two phase system consisting of soil and water,A three phase system,C
+140,The possible range of degree of saturation (S) expressed in percentage is,S greater than zero,S less than zero,0 less than S less than 100,0 less than S less than or equal to 100,D
+141,Constant head permeability tests are generally suitable for,Silt,Clay,Coarse sand,Fine sand,C
+142,A soil has bulk unit weight 22 kN per cubic meter and water content of 10 percent. The dry unit weight is,18.6 kN per cubic meter,20.0 kN per cubic meter,22.0 kN per cubic meter,23.2 kN per cubic meter,B
+143,If all void spaces in soil contain only air, the soil condition is called,Air entrained soil,Partially saturated soil,Dry soil,Dehydrated soil,C
+144,The valid limits for percentage porosity (n) are,0 less than n less than 100,0 less than n less than 100,n greater than zero,n less than zero,A
+145,Choose the correct statement regarding unit weight of soil,Dry unit weight is higher than wet unit weight,Dry unit weight is lower than total unit weight for dry soil,Unit weight increases after submergence,Unit weight decreases after submergence,D
+146,The void ratio of soil can,Never exceed one,Be zero only,Have any value greater than zero,Remain only between zero and one,C
+147,When volume of voids equals volume of solids, the porosity and void ratio respectively are,1.0 and 0.0,0.0 and 1.0,0.5 and 1.0,1.0 and 0.5,C
+148,If the degree of saturation is zero, the soil system becomes,A single phase system,A two phase system of soil and air,A two phase system of soil and water,A three phase system,B
+149,The density index (ID) lies within the range,ID greater than zero,ID greater than zero,0 less than ID less than 1,0 less than or equal to ID less than 1,D
+150,If degree of saturation is 60 percent in partially saturated soil, the air content is,40 percent,60 percent,80 percent,100 percent,A
+151,When a fully saturated soil has water content equal to 100 percent, the void ratio becomes,Less than specific gravity of soil,Equal to specific gravity of soil,Greater than specific gravity of soil,Independent of specific gravity,B
+152,The ratio of volume of voids to total volume of soil mass is known as,Air content,Porosity,Percentage air voids,Void ratio,B
+153,Relative density of dense compacted sand is approximately,0.4,0.6,0.95,1.20,C
+154,When sand is at its densest possible state, its relative density is,Zero,One,Between zero and one,Greater than one,B
+155,The most reliable laboratory method for determining soil water content is,Oven drying method,Sand bath method,Calcium carbide method,Pycnometer method,A
+156,For quick field estimation of water content, the preferred method is,Oven drying method,Sand bath method,Alcohol method,Calcium carbide method,D
+157,A pycnometer is mainly used for determining,Water content and void ratio,Specific gravity and dry density,Water content and specific gravity,Void ratio and dry density,C
+158,Stokes law is applicable when particle size lies,Less than 0.0002 mm,Greater than 0.2 mm,Between 0.2 mm and 0.0002 mm,All of these,C
+159,In hydrometer analysis, the corrections applied are,Both additive,Both subtractive,Meniscus additive and dispersing agent subtractive,Meniscus subtractive and dispersing agent additive,C
+160,The main difference between hydrometer and pipette analysis lies in,Testing principle,Observation procedure,Preparation of soil suspension,All of these,B
+161,Which parameter indicates range of particle sizes in soil?,Effective size,Uniformity coefficient,Coefficient of curvature,None of these,B
+162,Identify the correct statement regarding grading of soil,Uniformity coefficient shows curve shape,Well graded soil has coefficients nearly equal to one,Well graded soil has particles of same size,None of these,D
+163,Uniformity coefficient of soil is,Always less than one,Always equal to one,Equal to or less than one,Equal to or greater than one,D
+164,As per Atterberg limits, soil with plasticity index between 7 and 17 is classified as,Low plasticity,Medium plasticity,High plasticity,Very high plasticity,B
+165,If natural moisture content lies between liquid limit and plastic limit, soil is in,Liquid state,Plastic state,Semi solid state,Solid state,B
+166,If plastic limit exceeds liquid limit, the plasticity index is taken as,Negative,Zero,Non plastic,One,B
+167,Toughness index is defined as the ratio of,Plasticity index to consistency index,Plasticity index to flow index,Liquidity index to flow index,Consistency index to liquidity index,B
+168,When plasticity index is zero, the soil type is generally,Sand,Silt,Clay,Clayey silt,A
+169,Adding sand or silt to clay generally results in,Decrease in liquid limit and increase in plasticity index,Decrease in liquid limit with no change in plasticity index,Decrease in both liquid limit and plasticity index,Increase in both liquid limit and plasticity index,C
+170,Select the correct statement regarding uniform and non uniform soils,Uniform soils are stronger and more stable,Uniform soils are less stable than non uniform soils,Uniformity coefficient has no effect,Poorly graded soil has higher uniformity coefficient,B
+171,The water content marking transition from plastic state to liquid state is called,Liquid limit,Plastic limit,Shrinkage limit,Plasticity index,A
+172,Which soil generally has the highest plasticity index?,Sand,Silt,Clay,Gravel,C
+173,At liquid limit, soils possess,Same low shear strength,Same high shear strength,Different low shear strengths,Different high shear strengths,A
+174,If the base of Casagrande device is softer than standard, the liquid limit value will,Always increase,Always decrease,May increase,May decrease,A
+175,According to IS classification, silt particle size ranges from,4.75 mm to 2.00 mm,2.00 mm to 0.425 mm,0.425 mm to 0.075 mm,0.075 mm to 0.002 mm,D
+176,Highway Research Board soil classification is based on,Particle size only,Plasticity only,Both particle size and plasticity,None of these,C
+177,Inorganic soils with low compressibility are designated as,MH,SL,ML,CH,C
+178,A fluid is defined as a substance that,Cannot experience shear force,Expands to fill any container,Has identical shear stress at a point,Cannot remain at rest under shear stress,Flows continuously,D
+179,A fluid is a material that offers no resistance to change in,Pressure,Flow,Shape,Volume,Temperature,C
+180,Real or practical fluids generally,Are viscous,Exhibit surface tension,Are compressible,Possess all these properties,Possess none of these properties,D
+181,In a fluid at rest,Resistance to shear stress is small,Fluid pressure is zero,Linear deformation exists,Only normal stresses act,Viscosity is zero,D
+182,A fluid is termed ideal when it is,Incompressible only,Non viscous only,Viscous and incompressible,Non viscous and compressible,Non viscous and incompressible,E
+183,An ideal fluid flow must satisfy which relation?,Newton’s law of motion,Newton’s law of viscosity,Pascal’s law,Continuity equation,Boundary layer theory,D
+184,A substance that offers no resistance to deformation is called,Fluid,Water,Gas,Perfect solid,Ideal fluid,E
+185,Change in volume of fluid under applied pressure is referred to as,Volumetric strain,Volumetric index,Compressibility,Adhesion,Cohesion,C
+186,Liquids generally,Cannot be compressed,Have definite volume,Are unaffected by pressure and temperature,Are non viscous,None of these,E
+187,Water attains maximum density at temperature,0°C,0 K,4°C,100°C,20°C,C
+188,For dynamic similarity between model and prototype, equality of which ratios is required?,Inertial to viscous force ratio,Inertial to gravitational force ratio,Inertial to surface tension ratio,All these force ratios,None of these,D
+189,Mass density of water at 0°C in SI units is approximately,1,1000,100,101.9,91,D
+190,The property causing attraction between molecules of the same fluid is called,Adhesion,Cohesion,Viscosity,Compressibility,Surface tension,B
+191,Mercury does not wet glass mainly because of,Adhesion,Cohesion,Surface tension,Viscosity,Compressibility,C
+192,The ability of a fluid to resist tensile stress is known as,Compressibility,Surface tension,Cohesion,Adhesion,Viscosity,C
+193,Attraction between molecules of different substances is termed,Adhesion,Cohesion,Viscosity,Compressibility,Surface tension,A
+194,Specific weight of water corresponds to standard conditions such as,Normal atmospheric pressure,Temperature of 4°C,Mean sea level,All of these,None of these,D
+195,Specific weight of water in SI units is approximately,1000 N/m3,10000 N/m3,9.81 x 10^3 N/m3,9.81 x 10^6 N/m3,9.81 N/m3,C
+196,Flow in which parameters do not change with time at any point is called,Quasi static flow,Steady flow,Laminar flow,Uniform flow,Static flow,D
+197,Which among the following is dimensionless?,Specific weight,Specific volume,Specific speed,Specific gravity,Specific viscosity,D
+198,Normal stress in a fluid remains equal in all directions only when the fluid is,Incompressible,Uniform in viscosity,Without viscosity,Frictionless,At rest,E
+199,Pressure at a point is not equal in all directions when the fluid is,Moving,Viscous,Viscous and static,Non viscous and moving,Viscous and moving,E
+200,A body of mass 10 kg shows weight 9.81 kg on a spring balance. The acceleration due to gravity is,10 m/s2,9.81 m/s2,10.2 m/s2,9.75 m/s2,9 m/s2,A
+201,The tendency of a liquid surface to minimize its area is due to,Cohesion,Adhesion,Viscosity,Surface tension,Elasticity,D
+202,Surface tension of mercury compared with water at normal temperature is,Higher,Lower,Same,Depends on tube size,None of these,A
+203,A perfect gas,Has constant viscosity,Has zero viscosity,Is incompressible,Has only theoretical importance,None of these,E
+204,At very high pressures, viscosity of most fluids,Remains constant,Increases,Decreases,Behaves irregularly,None of these,D
+205,A fluid in equilibrium cannot sustain,Tensile stress,Compressive stress,Shear stress,Bending stress,All of these,C
+206,Compared with mercury, viscosity of water is,Higher,Lower,Same,Depends on temperature,Unpredictable,A
+207,With increase in pressure, bulk modulus of elasticity generally,Increases,Decreases,Remains constant,First increases then decreases,Unpredictable,A
+208,Bulk modulus of elasticity,Has dimensions of inverse pressure,Increases with pressure,Is higher for more compressible fluids,Is independent of pressure and viscosity,Is proportional to flow,B
+209,A balloon rising in air follows,Law of gravitation,Archimedes principle,Principle of buoyancy,All of these,Continuity equation,D
+210,Approximate coefficient of compressibility for water at normal conditions is,1000,2100,2700,10000,21000,E
+211,Increase in temperature causes,Increase in gas viscosity,Increase in liquid viscosity,Decrease in gas viscosity,Decrease in liquid viscosity,Both A and D,E
+212,The SI unit of surface tension is,Newton per metre,Newton metre,Newton,Newton metre squared,None of these,A
+213,Surface tension,Acts along the interface,Is same as capillarity,Depends on interface curvature,Decreases with lower temperature,Has no units,A
+214,For a Newtonian fluid, the stress strain relation is,Linear,Parabolic,Hyperbolic,Inverse,None of these,A
+215,A liquid compressed from 0.04 m3 at 50 kg/cm2 to 0.039 m3 at 150 kg/cm2 has bulk modulus approximately,400 kg/cm2,4000 kg/cm2,40 x 10^5 kg/cm2,40 x 10^6 kg/cm2,None of these,B
+216,Unit of dynamic viscosity is,Metre squared per second,Kg sec per metre,Newton second per metre squared,Newton second per metre,None of these,B
+217,Kinematic viscosity mainly depends on,Pressure,Distance,Level,Flow,Density,E
+218,Surface tension may also be expressed as,Energy per unit area,Distance,Both of these,No units,None of these,C
+219,Which instrument is not used for viscosity measurement?,Redwood viscometer,Saybolt viscometer,Engler viscometer,Orsat apparatus,None of these,D
+220,Correct relation among viscosities is,Specific gravity equals gravity times density,Dynamic viscosity equals kinematic viscosity times density,Gravity equals specific gravity times density,Kinematic viscosity equals dynamic viscosity times density,Hydrostatic force equals surface tension times gravity,B
+221,Dimensions of surface tension are,M L^0 T^-2,M L^0 T,M L T^-2,M L^2 T^-2,M L^0 T,A
+222,For manometers, a suitable liquid combination should have,Higher surface tension,Lower surface tension,Surface tension not important,High density and viscosity,Low density and viscosity,A
+223,If mercury is replaced by water in a barometer, 3.75 cm of mercury corresponds approximately to,51 cm,50 cm,52 cm,52.2 cm,51.7 cm,A
+224,Identify the incorrect statement regarding alcohol used in manometers,It has low vapour pressure,It forms a suitable meniscus,Its density is low,It gives longer column for same pressure difference,It gives accurate readings,A
+225,In a continuous flow sedimentation tank which design condition is generally followed?,Tank width is about 6 m,Length is about 4 to 5 times the width,Horizontal velocity is limited to about 0.3 m/min,All of the above,D
+226,Asbestos cement sewer pipes are characterized by,Low weight,Limited resistance to high compressive loads,Possibility of corrosion due to sulphuric acid,All of the above,D
+227,For proper sewer operation it is necessary that,A minimum velocity of about 0.45 m/s is maintained at low flow,A maximum velocity of about 0.90 m/s is maintained at peak flow,Both A and B,None of these,C
+228,Choose the correct statement regarding sewer design,Small diameter sewers are designed to run full at maximum flow,Larger sewers run partially full at maximum discharge,Minimum design velocity is taken around 0.8 m/s,All of the above,D
+229,Select the correct statement related to sewage flow design,Maximum daily flow may be taken as twice the average daily flow,Maximum daily flow may equal average flow,Sewers are designed considering minimum velocity at low flow,All of the above,D
+230,Openings of size 15 cm × 15 cm in a standing baffle wall are usually spaced at,15 cm centre to centre,22.5 cm centre to centre,30 cm centre to centre,50 cm centre to centre,B
+231,Internal pressure in sewer pipes refers to,Pressure exerted by sewage flowing full inside the pipe,Tensile stress developed due to internal pressure,Pipes designed to resist tensile forces,All of the above,D
+232,Before building drainage pipes are commissioned, which test is commonly carried out?,Water test,Smoke test,Straightness test,All of the above,B
+233,Sewage may be discharged without treatment when dilution factor is,Less than 150,Between 150 and 200,Between 200 and 300,Greater than 500,D
+234,Which pump is commonly used to handle sewage containing solids without blockage?,Centrifugal pump,Pneumatic ejector,Reciprocating pump,None of these,A
+235,At about 21°C, the acid formation phase during sludge digestion generally lasts about,15 days,30 days,60 days,90 days,D
+236,Select the correct statement regarding sewer cleaning methods,Small sewers may be cleaned by flushing,Medium sewers may be cleaned by cane rodding,Medium sewers may also be cleaned using cleaning balls,All of the above,D
+237,Which coagulant is generally not preferred for sewage treatment?,Alum,Ferric chloride,Ferric sulphate,Chlorinated copperas,A
+238,The method in which layers of organic refuse and night soil are stacked above ground to form a mound is known as,A heap,Plateau,Windrow,None of these,D
+239,If a miner’s safety lamp shows explosive behavior in sewer air, the gas present is most likely,Hydrogen sulphide,Carbon dioxide,Methane,Oxygen,C
+240,The gas mainly responsible for explosions in sewers is,Carbon dioxide,Methane,Ammonia,Carbon monoxide,B
+241,Identify the correct statement about water supply and sewer systems,Water supply pipes convey clean water without solids,Low velocity may cause clogging in water pipes,Sewers may follow ground slopes and valleys,Sewer pipes are generally laid on level hills,A
+242,Select the incorrect statement related to sludge digestion,Organic matter decomposes under anaerobic conditions,Sludge digestion occurs in digestion tanks,Digestion gas contains about 75% carbon dioxide,Digestion gas contains about 75% methane,C
+243,Sewer pipes are designed to,Convey sewage by gravity,Maintain self-cleansing velocity,Resist abrasion and wear,All of the above,D
+244,If settling velocity of particles exceeds tank depth criteria, the recommended detention period is approximately,30 minutes,1 hour,1.5 hours,2 hours,D
+245,Chezy’s constant in velocity formula depends on,Size of sewer,Shape of sewer,Roughness of sewer surface,All of the above,D
+246,The discharge per unit surface area of a sedimentation tank is termed,Overflow rate,Surface loading,Overflow velocity,All of the above,D
+247,Identify the incorrect safety practice for workers entering sewers,Keeping nearby manholes open for ventilation,Testing for toxic gases before entry,Allowing smoking inside sewer,Providing warning signals,C
+248,For an open drain with given roughness coefficient, the discharge obtained from calculations is,26.88 cumecs,27.88 cumecs,28.88 cumecs,29.88 cumecs,C
+249,Recommended self-cleansing velocity for large sewers under Indian conditions is about,0.50 m/s,0.60 m/s,0.70 m/s,0.75 m/s,D
+250,Assertion: Measurement of sewage pH is important. Reason: Efficiency of treatment processes depends on pH. Choose correct option,Both true and reason explains assertion,Both true but reason not correct explanation,Assertion true but reason false,Assertion false but reason true,A
+251,Typical overflow rate range for sedimentation tanks using coagulants is,25000–35000 L/m²/day,40000–50000 L/m²/day,50000–60000 L/m²/day,80000–100000 L/m²/day,C
+252,For a town drainage area with mixed surfaces and given runoff coefficients, the calculated peak runoff is approximately,0.10 cumec,0.12 cumec,0.15 cumec,0.20 cumec,C
+253,Sewer pipes are designed with some vacant cross-sectional area mainly to allow for,Unexpected infiltration,Future population increase,Possible underestimation of flow,All of the above,D
+254,An RCC column is considered long when its slenderness ratio exceeds,30,35,40,50,60,D
+255,The effective flange width of a T-beam should not exceed,One-third of effective span,Distance between adjacent beam centres,Breadth of rib plus twelve times slab thickness,Least of these,None,D
+256,A pile foundation primarily transfers structural load to soil by,End bearing only,Interaction with surrounding soil,Friction alone,Concrete action at depth,None,B
+257,Cantilever retaining walls are generally economical for heights up to,3 m,4 m,5 m,6 m,8 m,D
+258,In a prestressed beam with a bent tendon where the middle portion is straight, the maximum dip of tendon corresponds to,Option A,Option B,Option C,Option D,Option E,C
+259,When shear stress in a combined footing exceeds permissible limits, nominal stirrups generally provided are,6 legged,8 legged,10 legged,12 legged,None,D
+260,The maximum percentage of tensile reinforcement allowed in beams is,0.15%,1.5%,4%,1%,None,C
+261,According to IS provisions the pH value of mixing water should be,Less than 6,Equal to 6,Not less than 6,Equal to 7,None,C
+262,Minimum number of longitudinal bars required in RCC columns are,4 for rectangular columns,6 for circular columns,8 for octagonal columns,All of the above,None,D
+263,Post-tensioning in prestressed concrete is commonly used because,It was only used earlier,It is uneconomical,It is economical for large spans,None,None,C
+264,Bottom reinforcement in footings should extend into the slab beyond the column face by more than,42 bar diameters from column centre,42 bar diameters from inner face,42 bar diameters from outer face,24 bar diameters from centre,None,C
+265,Minimum diameter specified for longitudinal reinforcement in columns is,6 mm,8 mm,10 mm,12 mm,None,D
+266,While designing retaining walls, retained earth is usually assumed to be,Dry,Free from moisture,Non-cohesive,Granular in nature,All of the above,E
+267,Thickness of the base slab of a retaining wall is generally taken as,Half the stem width at base,One-third the stem width at base,One-fourth the stem width at base,Equal to stem width at base,Twice the stem width,D
+268,For a circular slab under uniform load, ratio of maximum negative to positive radial moment is,1,2,3,4,5,B
+269,The thickened region of a flat slab near a column is called,Drop panel,Capital,Column head,None,None,A
+270,In an RCC beam without shear reinforcement, inclined cracks generally form at an angle of about,25°,35°,45°,55°,60°,C
+271,Effective span of a simply supported slab is taken as,Distance between centres of supports,Clear span plus twice wall thickness,Clear span plus effective depth,None,None,B
+272,Identify the incorrect statement regarding reinforcement in retaining walls,Stem reinforcement placed near earth face,Toe slab reinforcement placed at bottom,Heel slab reinforcement placed at top,None,None,D
+273,Number of treads in a stair flight is equal to,Number of risers,Risers plus one,Risers minus one,None,None,C
+274,A foundation transmits load to,Base of foundation,Subgrade,Foundation soil,Both subgrade and foundation soil,None,D
+275,For preliminary beam design, beam width is generally assumed as,1/15 of span,1/20 of span,1/25 of span,1/30 of span,1/40 of span,D
+276,An advantage of concrete piles compared to timber piles is,Resistance to decay,No limitation on length,Higher load capacity,No need for cutting below water level,All of the above,E
+277,Effective flange width of a T-beam depends on,Breadth of rib,Thickness of slab,Spacing between beams,Span length,All of the above,E
+278,A two-way slab simply supported on all sides without corner restraint is designed using,Rankine formula,Marcus formula,Rankine-Grashoff formula,Grashoff formula,Rankine-Marcus formula,C
+279,Design of simply supported RCC beams under uniformly distributed load is based on bending moment at,Supports,Mid-span,All sections,Quarter span,None,B
+280,Transverse reinforcement provided perpendicular to main bars serves to,Distribute loads,Resist temperature stresses,Resist shrinkage stresses,All of the above,None,D
+281,Main reinforcement in slabs is designed based on,Minimum bending moment,Maximum bending moment,Maximum shear force,Minimum shear force,None,B
+282,If effective length of a 32 cm diameter RCC column is 4.40 m, the slenderness ratio is approximately,40,45,50,55,60,D
+283,Minimum reinforcement in slabs as percentage of gross area is,0.10%,0.12%,0.15%,0.18%,0.20%,C
+284,A continuous beam is classified as a deep beam when effective span to depth ratio is,2.5,2.0,Less than 2,Less than 2.5,None,D
+285,Width of column strip in a flat slab is generally taken as,One-fourth panel width,Half panel width,Column radius,Column diameter,None,B
+286,High strength concrete is preferred in prestressed members to,Resist bearing stresses,Resist bursting stresses,Provide high bond strength,Reduce shrinkage cracking,All of the above,E
+287,For comfortable stair design, the relation between rise (R) and tread (T) is,2R + T = 60,R + 2T = 60,2R + T = 30,R + 2T = 30,3R + 2T = 30,A
+288,In a prestressed beam with bent tendon, net downward load at centre is,W – 2P cosθ,W – P cosθ,W – P sinθ,W – 2P sinθ,W + 2P sinθ,D
+289,A T-beam behaves like a rectangular beam when its neutral axis,Lies within flange,Lies below slab,Coincides with centroid,None,None,A
+290,Weight of foundation is generally assumed as,5% of wall weight,7% of wall weight,10% of wall weight,12% of wall weight,None,C
+291,Maximum shear stress in a rectangular beam is approximately,1.25 times average,1.50 times average,1.75 times average,2 times average,2.5 times average,B
+292,Minimum waist thickness generally provided for stairs spanning horizontally is,4 cm,6 cm,8 cm,10 cm,12 cm,E
+293,Total earth pressure on a retaining wall acts at a height of,h/4,h/3,h/2,2h/3,None,B
+294,Minimum radius of bend for reinforcement hooks should be,2 times bar diameter,3 times bar diameter,4 times bar diameter,5 times bar diameter,None,A

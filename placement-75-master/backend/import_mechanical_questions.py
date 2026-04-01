@@ -1,0 +1,74 @@
+from database import SessionLocal
+from sqlalchemy import text
+
+questions = [
+    {"question": "What is the difference between scavenging and supercharging in internal combustion engines?", "ideal_answer": "Scavenging is the process of using fresh air to push out burnt exhaust gases from the cylinder before the exhaust stroke ends. Supercharging involves supplying a higher mass of air to the engine by compressing atmospheric air, increasing power output."},
+    {"question": "Match the thermodynamic processes to their constant parameters: Isothermal, Isochoric, Isobaric, Adiabatic.", "ideal_answer": "Isothermal: Constant temperature. Isochoric: Constant volume. Isobaric: Constant pressure. Adiabatic: No heat transfer (Constant entropy if reversible)."},
+    {"question": "How does increasing the maximum steam pressure in a Rankine cycle affect the dryness fraction after expansion?", "ideal_answer": "If maximum steam pressure is increased while temperature and condenser pressure remain the same, the dryness fraction of the steam after expansion will decrease, potentially leading to increased moisture and erosion in turbine blades."},
+    {"question": "Why is the entropy change zero for a reversible adiabatic process?", "ideal_answer": "In a reversible adiabatic (isentropic) process, there is no heat transfer (Q=0) and no internal friction or irreversibilities, so the change in entropy (dS = dQ/T) is zero."},
+    {"question": "What are the two essential conditions for a substance to be considered a perfect gas?", "ideal_answer": "A perfect gas must satisfy the equation of state (Pv = RT) and its specific heats (Cp and Cv) must remain constant regardless of temperature changes."},
+    {"question": "Enthalpy and entropy are functions of which single parameter in a perfect gas?", "ideal_answer": "In the case of a perfect gas, both enthalpy and entropy are primarily functions of temperature."},
+    {"question": "Why does a polished surface experience a higher rate of condensation than a rusty or rough surface?", "ideal_answer": "A polished surface promotes drop-wise condensation, where droplets form and fall off quickly without wetting the entire surface. This maintains a high heat transfer rate compared to film-wise condensation on rough surfaces."},
+    {"question": "What is the relationship between the Coefficient of Performance (COP) of a heat pump (heating) and a refrigerator (cooling)?", "ideal_answer": "The COP of heating is always exactly one unit greater than the COP of cooling for systems operating between the same temperature limits (COP_heating = COP_cooling + 1)."},
+    {"question": "How much work is done during an isochoric process?", "ideal_answer": "Since an isochoric process occurs at constant volume (dV = 0), the boundary work done (P*dV) is zero."},
+    {"question": "Under what condition is the work required for a reciprocating compressor minimized?", "ideal_answer": "Minimum work is required when the compression process is isothermal. To approach this, intercoolers are used to dissipate heat during the compression stages."},
+    {"question": "Distinguish between stalling and surging in rotary compressors.", "ideal_answer": "Stalling is a local flow separation on the blades. Surging is a more severe, global phenomenon involving the complete breakdown and reversal of flow throughout the entire machine, which can cause significant damage."},
+    {"question": "Why are fans with backward-curved blades less likely to overload the motor?", "ideal_answer": "Backward-curved blades have a 'self-limiting' power characteristic. Maximum power is consumed at a specific flow rate (usually around 70%), and power consumption actually drops at higher flow rates, protecting the motor."},
+    {"question": "Define 'Anergy' in the context of thermal energy.", "ideal_answer": "Anergy refers to the portion of thermal energy that cannot be converted into work and must be rejected into the environment according to the Second Law of Thermodynamics."},
+    {"question": "What is pitting corrosion and what causes it?", "ideal_answer": "Pitting is a form of localized corrosion that creates small holes or 'pits' in the metal surface. It is caused by local inhomogeneities in the material or the breakdown of protective oxide layers."},
+    {"question": "Explain caustic embrittlement in the context of boiler metals.", "ideal_answer": "Caustic embrittlement is a type of stress corrosion cracking that makes metal brittle and creates microscopic cracks, often occurring in riveted joints or high-stress areas of boilers due to the accumulation of concentrated caustic soda."},
+    {"question": "What is the difference between hard water and soft water regarding boiler operation?", "ideal_answer": "Hard water contains high levels of minerals like calcium and magnesium that form scale on boiler surfaces, reducing heat transfer. Soft water has very little of these scale-forming impurities."},
+    {"question": "What maintenance step prevents safety valves from sticking in a boiler?", "ideal_answer": "Safety valves should be manually tested or 'blown off' periodically to prevent corrosion and debris from causing the valve to stick to its seat."},
+    {"question": "Why are large industrial boilers typically water-tube type rather than fire-tube?", "ideal_answer": "Water-tube boilers have a larger heat transfer area, faster steam generation rates, and can handle much higher pressures safely. They also pose less risk of catastrophic explosion if a single tube fails."},
+    {"question": "Which type of boiler operates without a steam drum?", "ideal_answer": "Supercritical pressure boilers do not require a steam drum because at supercritical pressures, there is no distinct phase change between liquid and vapor (water turns directly into steam)."},
+    {"question": "Why are manholes in pressure vessels usually elliptical?", "ideal_answer": "An elliptical shape minimizes the removal of material from the vessel wall, maintaining structural strength. It also allows the cover plate to be easily inserted and rotated into place from the inside."},
+    {"question": "Why is it dangerous to have a high water level in a boiler drum?", "ideal_answer": "High water levels reduce the effectiveness of steam separation, allowing liquid water droplets to be carried over into the steam line ('priming'), which can severely damage steam turbines."},
+    {"question": "Why must a boiler furnace be purged before ignition?", "ideal_answer": "Purging removes any unburnt fuel or explosive gases that may have accumulated in the furnace, preventing a dangerous explosion upon ignition."},
+    {"question": "What is the basic principle of mechanical refrigeration?", "ideal_answer": "It relies on a volatile refrigerant liquid that boils at a low temperature, absorbing latent heat from its surroundings as it evaporates, thus cooling the environment."},
+    {"question": "Why is a high latent heat of vaporization preferred in a refrigerant?", "ideal_answer": "A higher latent heat means a smaller mass of refrigerant is needed to achieve the same cooling effect, making the system more efficient and compact."},
+    {"question": "Define the 'critical temperature' of a refrigerant.", "ideal_answer": "It is the maximum temperature at which the refrigerant can exist as a liquid regardless of the pressure applied. Above this temperature, it remains a gas."},
+    {"question": "Why can IC engines tolerate much higher peak combustion temperatures than gas turbines?", "ideal_answer": "In IC engines, the peak temperature lasts only for a tiny fraction of a second during the cycle. Gas turbines are subjected to high temperatures continuously, requiring the use of expensive heat-resistant alloys."},
+    {"question": "What is 'timed cylinder lubrication' in large engines?", "ideal_answer": "It is the process of injecting lubricating oil exactly when the piston is at a specific position (usually at the bottom of the stroke) to ensure even distribution and minimize oil waste."},
+    {"question": "Explain 'HUCR' in relation to petrol engine performance.", "ideal_answer": "HUCR stands for Highest Useful Compression Ratio. It is the maximum compression ratio at which a specific fuel can be used in a test engine without causing engine knocking."},
+    {"question": "Why is lubricating oil consumption typically higher in two-stroke engines compared to four-stroke?", "ideal_answer": "In two-stroke engines, oil is often mixed with the fuel or injected into the intake, meaning some oil is inevitably lost through the exhaust port during the scavenging process."},
+    {"question": "How does the air-fuel mixture strength (weak vs. rich) affect thermal efficiency?", "ideal_answer": "Thermal efficiency is generally higher for weak (lean) mixtures and decreases as the mixture becomes richer, due to incomplete combustion and dissociation at higher temperatures."},
+    {"question": "Why are pistons often 'dished' or hollowed at the top?", "ideal_answer": "Dished piston crowns provide more space for the combustion chamber, increase the surface area for combustion gases to act upon, and help distribute thermal and mechanical stresses more evenly."},
+    {"question": "What is 'Creep' in materials science?", "ideal_answer": "Creep is the slow, progressive deformation of a material over time when subjected to constant stress, especially at high temperatures."},
+    {"question": "Distinguish between isotropic and anisotropic materials.", "ideal_answer": "Isotropic materials exhibit the same physical and mechanical properties in all directions. Anisotropic materials have properties that vary depending on the direction of loading or measurement."},
+    {"question": "What are the effects of adding chromium and nickel to steel?", "ideal_answer": "Chromium significantly increases corrosion resistance by forming a protective oxide layer. Nickel improves toughness, ductility, and tensile strength."},
+    {"question": "What is the 'Curie Point' of a material?", "ideal_answer": "The Curie Point is the critical temperature above which a ferromagnetic material loses its permanent magnetic properties and becomes paramagnetic."},
+    {"question": "Define 'Toughness' vs 'Hardness' in mechanical engineering.", "ideal_answer": "Hardness is the resistance to surface indentation or scratching. Toughness is the ability of a material to absorb energy and deform plastically before fracturing."},
+    {"question": "What does 'Fatigue' mean in the context of material failure?", "ideal_answer": "Fatigue is the failure of a material under repeated or fluctuating loads at stress levels well below its static yield strength. It typically begins with a microscopic crack that grows over time."},
+    {"question": "Explain the difference between a 'Column' and a 'Strut'.", "ideal_answer": "Both carry axial compressive loads. However, a column is specifically a vertical member, while a strut is a general term for any structural member (at any angle) carrying a compressive load."},
+    {"question": "What is 'Solid Solution' in metallurgy?", "ideal_answer": "A solid solution is a solid-state mixture of two or more elements where the atoms of one element are distributed throughout the lattice of another, maintaining a single homogeneous phase."},
+    {"question": "What is the purpose of a 'Biological Shield' in a nuclear power plant?", "ideal_answer": "It is a thick layer of heavy concrete or lead designed to absorb harmful radiation (neutrons, gamma rays) and protect personnel and the environment."},
+    {"question": "Define 'Thermal Diffusivity'.", "ideal_answer": "Thermal diffusivity is a measure of the rate at which heat spreads through a material. It is the ratio of thermal conductivity to heat capacity (alpha = k / (rho * Cp))."},
+    {"question": "What is 'Data Encapsulation' or 'Data Hiding'?", "ideal_answer": "It is a principle where the internal state (data) of an object is kept private, and access is only provided through a controlled public interface (methods). This allows the internal implementation to change without affecting other parts of the system."},
+    {"question": "What are 'Killed Steels'?", "ideal_answer": "Killed steels are deoxidized during the melting process using elements like silicon or aluminum. This prevents gas evolution during solidification, resulting in a more uniform and defect-free ingot."},
+    {"question": "What is the 'Factor of Safety'?", "ideal_answer": "The Factor of Safety is the ratio of the ultimate (or yield) strength of a material to the actual working stress it will experience in service. It ensures the design can handle unexpected overloads."},
+    {"question": "Explain 'Thermal Boundary Layer' vs 'Hydrodynamic Boundary Layer'.", "ideal_answer": "The hydrodynamic boundary layer is the region where fluid velocity changes from zero at the wall to its free-stream value. The thermal boundary layer is the region where the fluid temperature changes from its value at the wall to the free-stream temperature."},
+    {"question": "What is 'Fuel Ratio' in coal analysis?", "ideal_answer": "Fuel ratio is the ratio of the percentage of fixed carbon to the percentage of volatile matter in a coal sample. It is a key indicator of coal quality and rank."},
+    {"question": "What is a 'Fast Breeder Reactor'?", "ideal_answer": "A fast breeder reactor uses fast neutrons to sustain the chain reaction and is designed to produce more fissile material (like Plutonium-239) than it consumes, effectively 'breeding' its own fuel."},
+    {"question": "Define 'Isotropic' vs 'Homogeneous' materials.", "ideal_answer": "A homogeneous material has the same chemical composition throughout its volume. An isotropic material has the same properties (like elasticity) in every direction at any given point."},
+    {"question": "What is 'Proof Resilience'?", "ideal_answer": "Proof resilience is the maximum amount of strain energy that can be stored in a material without causing permanent plastic deformation."},
+    {"question": "Explain the difference between 'Brass' and 'Bronze'.", "ideal_answer": "Brass is an alloy primarily composed of copper and zinc. Bronze is an alloy primarily composed of copper and tin."}
+]
+
+def import_questions():
+    db = SessionLocal()
+    try:
+        print(f"Importing {len(questions)} Mechanical interview questions...")
+        for q in questions:
+            db.execute(text(
+                "INSERT INTO interview_questions (branch, question, ideal_answer) VALUES ('Mechanical', :q, :a)"
+            ), {"q": q["question"], "a": q["ideal_answer"]})
+        db.commit()
+        print("Successfully imported Mechanical questions.")
+    except Exception as e:
+        print(f"Error during import: {e}")
+        db.rollback()
+    finally:
+        db.close()
+
+if __name__ == "__main__":
+    import_questions()

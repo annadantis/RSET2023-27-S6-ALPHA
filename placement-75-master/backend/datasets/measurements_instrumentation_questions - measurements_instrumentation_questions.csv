@@ -1,0 +1,230 @@
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Answer
+1,A 10MHz CRO has,5MHz sweep,10MHz vertical oscillator,10MHz horizontal oscillator,10MHz supply frequency,C
+2,Which of the following instruments can be used to measure AC current only?,Permanent Magnet Type ammeter,Induction type ammeter,Moving iron voltmeter,Moving iron ammeter,B
+3,An oscilloscope indicates,Peak to peak value of voltage,DC value of voltage,RMS value,Average value,A
+4,In a ballistic galvanometer the deflecting torque is proportional to,the current through coil,square of current through coil,square-root of current through coil,sine of measured,A
+5,The error of an instrument is normally given as a percentage of,measured value,full-scale value,mean value,rms value,B
+6,If the instrument is to have a wide range the instrument should have,Linear scale,Square-law scale,Exponential scale,Logarithmic scale,D
+7,The resistance can be measured most accurately by,Voltmeter-ammeter method,Bridge method,Multimeter,Megger,B
+8,The repeat accuracy of an instrument can be judged from its,static error,linearity error,dynamic error,standard deviation of error,D
+9,Which of the following meters has a linear scale?,Thermocouple meter,Moving iron meter,Hot wire meter,Moving coil meter,D
+10,No eddy current and hysteresis losses occur in,Electrostatic instruments,PMMC instruments,Moving iron instruments,Electrodynamometer instruments,A
+11,Two voltmeters have same range 0-400V and internal impedances 30000 and 20000 ohms connected in series across 600V the readings are,360V and 240V,300V each,400V and 200V,one meter out of range and other 100V,A
+12,Full-scale deflection current of an ammeter is 1mA and internal resistance is 100 ohm for full deflection at 5A shunt resistance is,49.99 ohms,1/49.99 ohms,1 ohm,2 ohms,B
+13,Full-scale deflection current of an ammeter is 1mA and internal resistance is 100 ohm for full deflection at 100V series resistance is,99.99 K ohms,100 K ohms,99.99 ohms,100 ohms,A
+14,Why is a MISC meter not recommended for DC measurement?,Calibrated for AC and error high for DC,Does not respond to DC signals,Error high due to hysteresis effect,Error high due to eddy current effect,C
+15,The EMF of Weston standard cell is measured using,Moving iron meter,Moving coil meter,Digital voltmeter,Potentiometer,D
+16,A milliammeter can be used as,Voltmeter and ammeter,Wattmeter,Ohmmeter,Frequency meter,A
+17,Which instrument has identical calibration for AC as well as DC values?,Hot wire type,Moving coil type,Induction type,Moving iron type,A
+18,An instrument used for measurement and control should preferably have,Dead zone and dead time,Linear output and fast response,Non-linear output,Highly damped response,B
+19,Current coil of wattmeter connected to CT of R phase and potential coil across Y and B phases measures,Active power in R phase,Active power of Y phase,Reactive power of R phase,Power proportional to 3 phase power if load balanced,C
+20,Electro-static coupling in a transformer is acute at,Low frequencies,Power frequencies,High frequencies,High load on transformer,C
+21,Which meter is suitable for measurement of 10mV at 50MHz?,Moving iron voltmeter,VTVM,Moving coil voltmeter,CRO,D
+22,It can be stated that,CT operates at same flux density as PT,CT operates at higher flux density than PT,CT operates with lower flux density than PT,No generalisation possible,C
+23,Thermocouple instruments do not have,High sensitivity,Absence of frequency error,Independence of ambient temperature,High degree of measuring accuracy,D
+24,Some wire wound resistors have bifilar winding used to,Increase thermal stability,Reduce tolerance,Reduce inductance of winding,Double power rating,C
+25,Wien bridge is useful for measuring,Very high frequency,Low frequency,Medium frequency,High frequency,D
+26,A megger is usually,Moving iron type instrument,Electrostatic type instrument,Hot wire type instrument,Moving coil type instrument,D
+27,A moving iron ammeter may be compensated for frequency errors by,a shunt resistance,a series inductance,shunt capacitance,series resistance,C
+28,Ryall crest voltmeter is used for measurement of,AC voltage of any form,Low frequency voltage,High DC voltage,High AC voltage,D
+29,Jewels are used in instruments for,Damping,Torque control,Suppressing noise,Bearing,D
+30,The thermocouple instrument will measure,Current,Voltage,Flux,None of the above,D
+31,A CRO can display,AC signals,DC signals,Both AC and DC signals,Time invariant signals,C
+32,The internal resistance of an ammeter should be,Very small,Medium,High,Infinity,A
+33,A galvanometer has,Air friction damping,Fluid friction damping,Spring coil damping,Eddy current damping,D
+34,Electrostatic instruments are normally used for,Low current measurements,High current measurements,Low voltage measurements,High voltage measurements,D
+35,In a moving coil instrument deflecting torque is proportional to,Current,Square of current,Square root of current,Sine of measurand,A
+36,Absolute measurement of resistance is done by,Ohm’s law method,Bridge method,Rayleigh method,Lorenz method,D
+37,To measure flux devices are based on,Voltaic effect,Piezo-electric effect,Hall effect,Photo-voltaic effect,C
+38,The form factor in AC is ratio of,Peak value to average value,Peak value to RMS value,RMS value to average value,RMS value to peak value,C
+39,PMMC type instruments normally use,Air friction damping,Fluid friction damping,Eddy current damping,None of the above,C
+40,In a moving iron meter deflecting torque is proportional to,Current through coil,Square of current through coil,Sine of measurand,Square root of measurand,B
+41,In a gravity controlled instrument deflection angle is proportional to,Measurand,Square of measurand,Sine inverse of measurand,Sine of measurand,C
+42,Ampere is one of the,Supplementary units,Derived units,Base units,Units used to measure charge,C
+43,Direct method is used to measure,Length,Temperature,Pressure,Voltage,A
+44,A rectifier type instrument connected to 100V DC reads,111V,90V,50V,100V,A
+45,A PMMC ammeter with coil resistance 99 ohm and FSD current 0.1mA with shunt resistance 1 ohm current at 0.5 FSD is,0.007mA,0.05mA,0.023mA,0.1mA,B
+46,A single phase wattmeter operating on 230V and 5A for 5 hours makes 1940 revolutions meter constant 400 rev/kWh power factor is,1,0.84,0.73,0.65,B
+47,In two wattmeter method when power factor less than 0.5 lagging,One wattmeter reads zero,Both give same readings,One wattmeter connection reversed,Pressure coil ineffective,C
+48,When using ohmmeter applied voltage is disconnected because,Voltage source increases resistance,Current decreases resistance,Ohmmeter has its own internal battery,None of the above,C
+49,Which wave has least form factor?,Square wave,Rectangular wave,Sine wave,Triangular wave,A
+50,With sweep time 10ms across screen horizontal sawtooth frequency is,50Hz,100Hz,1kHz,500Hz,B
+51,A spring controlled instrument has 90° deflection for max current corresponding deflection for gravity controlled instrument is,90°,120°,30°,0°,C
+52,10A current through 10 ohm resistor with 5% tolerance max error in power measurement is,100W,150W,50W,200W,B
+53,A 10k ohm resistor with 5% tolerance parallel with 5k ohm resistor with 10% tolerance tolerance limit is,5%,6.67%,10%,8.33%,D
+54,Resistance offered by column of mercury defined as,Standard ohm,One international ohm,One ohm according to SI units,One ohm according to working standards,B
+55,At room temperature the current in an intrinsic semiconductor is due to,holes,electrons,ions,holes and electrons,D
+56,The most commonly used semiconductor material is,silicon,germanium,mixture of silicon and germanium,none of the above,A
+57,In which of these is reverse recovery time nearly zero?,Zener diode,Tunnel diode,Schottky diode,PIN diode,C
+58,A transistor has a current gain of 0.99 in the CB mode Its current gain in the CC mode is,100,99,1.01,0.99,A
+59,The amount of photoelectric emission current depends on,frequency of incident radiation,intensity of incident radiation,both frequency and intensity of incident radiation,none of the above,B
+60,Assertion A A p-n junction has high resistance in reverse direction Reason R depletion layer width increases,Both A and R true and R explains A,Both A and R true but R not explanation,A true R false,A false R true,A
+61,Voltage series feedback results in,increase in both input and output impedances,decrease in both input and output impedances,increase in input impedance and decrease in output impedance,decrease in input impedance and increase in output impedance,C
+62,How many free electrons does a p type semiconductor has?,only those produced by thermal energy,only those produced by doping,those produced by doping as well as thermal energy,any of the above,A
+63,Which of the following has highest resistivity?,Mica,Paraffin wax,Air,Mineral oil,C
+64,Assertion A In p-n-p transistor collector current is termed negative Reason R holes are majority carriers,Both A and R true and R explains A,Both A and R true but R not explanation,A true R false,A false R true,B
+65,The sensitivity of human eyes is maximum at,white portion of spectrum,green portion of spectrum,red portion of spectrum,violet portion of spectrum,B
+66,In a bipolar transistor the base collector junction has,forward bias,reverse bias,zero bias,zero or forward bias,B
+67,An intrinsic silicon sample has 1 million free electrons at room temperature As temperature increases,the number of free electrons increases,free electrons increase but holes decrease,free electrons and holes increase equally,free electrons and holes increase but not equally,C
+68,Necessary AC input power from transformer secondary in half wave rectifier to deliver 500W DC power is,1232W,848W,616W,308W,A
+69,In a semiconductor diode the barrier offers opposition to,holes in P region only,free electrons in N region only,majority carriers in both regions,majority as well as minority carriers,C
+70,In a half wave rectifier the load current flows,only for positive half cycle,only for negative half cycle,for full cycle,for less than fourth cycle,A
+71,For a NPN bipolar transistor main stream of current in base region is,Drift of holes,Diffusion of holes,Drift of electrons,Diffusion of electrons,B
+72,Assertion A A VMOS can handle larger current Reason R channel is very narrow,Both A and R true and R explains A,Both A and R true but R not explanation,A true R false,A false R true,C
+73,In monolithic ICs all components are fabricated by,diffusion process,oxidation,evaporation,none,A
+74,Which one is not characteristic of ferroelectric material?,High dielectric constant,No hysteresis,Ferroelectric characteristic only above curie point,Electric dipole moment,C
+75,In diamond sale one carat equals,100 mg,150 mg,200 mg,500 mg,C
+76,Assertion A A JFET can be used as current source Reason R current nearly constant beyond pinch off,Both A and R true and R explains A,Both A and R true but R not explanation,A true R false,A false R true,A
+77,Permalloy is,a variety of stainless steel,a polymer,a non ferrous alloy used in aircraft industry,a nickel iron alloy having high permeability,D
+78,Maximum current rating of junction diode by 126 is,1 A,10 A,20 A,100 A,A
+79,Each cell of a static RAM contains,6 MOS transistor,4 MOS transistor and 2 capacitor,2 MOS transistor and 4 capacitor,1 MOS transistor and 1 capacitor,A
+80,An electron in conduction band,has higher energy than valence band electron,has lower energy than valence band electron,loses its charge easily,jumps to top of crystal,A
+81,Dynamic resistance of forward biased p-n diode,varies inversely with current,varies directly with current,is constant,is constant or varies directly,A
+82,A thermistor is a,thermocouple,thermometer,miniature resistance,heat sensitive explosive,C
+83,When diodes connected in series peak inverse voltage per junction,should not exceed half breakdown voltage,should not exceed breakdown voltage,should not exceed one third breakdown voltage,may be equal or less than breakdown voltage,C
+84,Hall effect resultant electric field inside specimen is,normal to both current and magnetic field,in direction of current,antiparallel to magnetic field,in arbitrary direction,A
+85,In an ideal diode there is no breakdown no ____ current and no forward ____ drop,reverse voltage,forward current,forward voltage,reverse current,A
+86,Silicon is not suitable for LED fabrication because it is,indirect band gap semiconductor,direct band gap semiconductor,wide band gap semiconductor,narrow band gap semiconductor,A
+87,MOSFET can be used as a,current controlled capacitor,voltage controlled capacitor,current controlled inductor,voltage controlled inductor,B
+88,Power diodes are generally,silicon diodes,germanium diodes,either of the above,none of the above,A
+89,Depletion layer width of junction,decreases with light doping,independent of applied voltage,increases under reverse bias,increases with heavy doping,C
+90,Forbidden energy gap in germanium at 0 K is about,10 eV,5 eV,2 eV,0.78 eV,D
+91,Light dependent resistors are,highly doped semiconductor,intrinsic semiconductor,lightly doped semiconductor,either a or c,C
+92,Fermi level is the amount of energy in which,a hole can have at room temperature,an electron can have at room temperature,energy required for electron to move to conduction band,none of the above,C
+93,When avalanche breakdown occurs covalent bonds are not affected,TRUE,FALSE,,,B
+94,An ideal Op-amp is an ideal,voltage controlled current source,voltage controlled voltage source,current controlled current source,current controlled voltage source,B
+95,Free electrons exist in,first band,second band,third band,conduction band,D
+96,As compared to BJT a FET,is less noisy,has better thermal stability,has higher input resistance,all of the above,D
+97,For a P-N diode number of minority carriers crossing junction depends on,forward bias voltage,potential barrier,rate of thermal generation of electron hole pairs,none of the above,C
+98,Which variety of copper has best conductivity?,Pure annealed copper,Hard drawn copper,Induction hardened copper,Copper containing silicon,A
+99,Output V-I characteristics of enhancement MOSFET has,only ohmic region,only saturation region,ohmic region followed by saturation region,ohmic region at large voltage preceded by saturation region,C
+100,Piezoelectric quartz crystal resonators find application where,signal amplification required,rectification required,signal frequency control required,modulation required,B
+101,Forbidden energy gap least in case of,metals,semiconductors,insulators,all of the above,A
+102,If too large current passes through diode,all electrons leave,all holes freeze,excessive heat may damage diode,diode emits light,C
+103,In which base system is 123 not a valid number?,Base 10,Base 16,Base 8,Base 3,D
+104,Storage of 1 KB means how many bytes?,1000,964,1024,1064,C
+105,Octal equivalent of binary 10111101 is,675,275,572,573,B
+106,Pick out the correct statement,Positional system symbols same value irrespective of position,Highest symbol equals number of symbols,Not always possible to find exact binary,Each hex digit equals three binary digits,C
+107,Binary code of (21.125)10 is,10101.001,10100.001,10101.01,10100.111,A
+108,A NAND gate is called universal because,Used by everybody,Any logic function can be realized by NAND alone,All minimization techniques apply,Many computers use NAND,B
+109,Digital computers widely used because,Less expensive,Always more accurate and faster,Useful over wider range of problems,Easier to maintain,C
+110,Most digital computers lack floating point hardware because,It is costly,It is slower than software,Not possible by hardware,No reason,A
+111,Number 1000 appears immediately after,FFFF hex,1111 binary,7777 octal,All of the above,D
+112,(10101)2 equals which decimal?,37,69,41,5,A
+113,Number of Boolean functions with n variables is,2^n,2^(2^n),2^(n-1),2n,B
+114,Overflow from adding 011000 and 011000 occurs in,Two’s complement only,Sign magnitude and one’s complement,Two’s and one’s complement,All three,D
+115,Hexadecimal odometer F52F next reading is,F52E,G52F,F53F,F530,D
+116,Positive logic means,0 and positive voltage for 0 and 1,Negative and positive voltages,Logic 0 higher than 1,Logic 0 lower than 1,D
+117,Two level logic gate is,OR,NAND,EXOR,NOT,C
+118,Logic family usable above 100 MHz is,TTLAS,CMOS,ECL,TTLLS,C
+119,AND gate functions as OR if,All inputs 1,All inputs 0,Either input 1,Inputs and outputs complemented,D
+120,OR gate with 6 inputs has how many truth table rows?,6,32,64,128,C
+121,A debouncing circuit is,Astable MV,Bistable MV,Latch,Monostable MV,C
+122,NAND gates preferred because,Lower area,Can make any gate,Least power,Maximum density,B
+123,Fan out of 7400 NAND gate is,2TTL,5TTL,8TTL,10TTL,D
+124,Excess-3 code is,Weighted code,Cyclic redundancy code,Self-complementing code,Algebraic code,C
+125,1200 BPS line with 8 data 1 parity 1 start 2 stop transmits how many CPS?,10,120,12,None,C
+126,Correct binary additions are,I and II,II and III,III only,II and III,D
+127,Correct K-map sequence is,(00 01 10 11),(00 10 01 11),(00 01 11 10),(00 10 11 01),A
+128,Binary 10101 equals decimal,19,12,27,21,D
+129,Universal gate is,NAND,OR,AND,None,A
+130,Inverter is,NOT,OR,AND,None,A
+131,NAND inputs connected together gives,OR,AND,NOT,None,C
+132,NOR gate is OR followed by,AND,NAND,NOT,None,C
+133,NAND gate is AND followed by,NOT,OR,AND,None,A
+134,Digital circuits can be made by repeated use of,OR,NOT,NAND,None,C
+135,Function of NOT gate is,Stop signal,Invert input,Universal gate,None,B
+136,If input 1 to NOT gate output is,0,1,Either,Undefined,A
+137,In Boolean algebra bar sign indicates,OR,AND,NOT,None,C
+138,Configurable functions of FPGA IOBs are,Input,Tristate output,Bidirectional I/O,All of above,D
+139,CPLD package with maximum pins is,PLCC,QFP,PGA,BGA,D
+140,Mechanism assigning binary values to states to reduce cost is,State reduction,State minimization,State assignment,State evaluation,C
+141,Which of the following can be used as a rotating amplifier in a control system?,Amplidyne and separately excited DC generator,Synchro and self excited DC generator,Amplidyne synchro and DC generator,All,B
+142,A lead compensator,speeds up transient response,increases stability margin,increases stability margin and speeds up transient response,none,C
+143,The effect of adding poles and zeros can be determined quickly by,Nichols chart,Nyquist plot,Bode plot,Root locus,C
+144,In force current analogy mechanical mobility is analogous to,impedance Z,admittance Y,reactance X,conductance G,A
+145,If any term in first column of Routh array becomes zero then,Routh criterion cannot be used,Substitute small positive number and continue,Substitute large positive number,Substitute small negative number,B
+146,Which feature is not associated with Nichols chart?,0 dB -180 degree point represents critical point,Symmetric about -180 degree,M loci centered at 0 dB -180 degree,Bandwidth determined by intersection with M=+3 dB,D
+147,A system is highly oscillatory if,gain margin high,gain margin close to 1,gain margin close to 1 or phase margin zero,gain margin high and phase margin 180,C
+148,Correct statement about DC servomotor characteristics is,PM DC servomotor more flat,Wound field DC servomotor more flat,Both equally flat,None,A
+149,A conditionally stable system becomes unstable if,gain increased beyond upper limit,gain decreased below lower limit,both A and B,none,C
+150,Transport lag usually exists in,thermal systems,hydraulic and thermal systems,pneumatic systems,thermal hydraulic and pneumatic systems,D
+151,Which can act as error detecting devices?,Potentiometers synchros control transformer,Synchros differential transformer metadyne control transformer,Potentiometers differential transformer metadyne control transformer,Potentiometers synchros differential transformer metadyne,A
+152,For type 1 system velocity lag error is,inversely proportional to bandwidth,directly proportional to gain constant,inversely proportional to gain constant,independent of gain constant,C
+153,Integral control action,removes offset,may lead to oscillatory response,both A and B,neither,C
+154,Sensor used in incremental optical encoder is,LED,LCD,photodiode,either A or B,C
+155,Robotic manipulator arms mostly use,hydraulic actuator,pneumatic actuator,electric motor actuator,none,C
+156,If poles lie in second quadrant damping ratio is,1,less than 1,zero,more than 1,B
+157,Device used to obtain output position in position control system is,Strain gauge,Load cell,Synchro,Thermistor,B
+158,DC tachogenerator can be used in,speed control system,position control system,both A and B,neither,C
+159,Direction of rotation in two phase servomotor depends on,magnitude of voltages,phase relation of voltages,both magnitude and phase relation,none,B
+160,Permanent magnet field system of brushless DC servomotor is on,stator,rotor,partly stator and rotor,either,B
+161,For any transfer function constant phase angle loci are,a family of circles,a family of straight lines,either A or B,neither,A
+162,In force current analogy displacement is analogous to,charge,magnetic flux linkage,electrostatic energy,voltage,B
+163,If poles lie in first quadrant damping ratio is,1,more than 1,less than 1,zero,C
+164,Which control action can never be used alone?,Proportional,Derivative,Integral,Both derivative and integral,B
+165,In on off controller differential gap determines,accuracy level,life of controller,both A and B,neither,C
+166,Which DC servomotor requires strongest permanent magnet?,Slotted armature,Surface wound armature,Surface wound with stationary rotor,Either A or B,C
+167,Nichols chart consists of,constant magnitude loci,constant phase angle loci,magnitude and phase loci in log magnitude vs phase diagram,none,C
+168,Correct statements about root locus are,Routh criterion used and real axis rule incorrect,Only statements 1 and 2 correct,Only statement 1 correct,Only statements 2 and 3 correct,B
+169,Poles farther from real axis correspond to,higher oscillation frequency,stable response,lower oscillation frequency,unbounded output,A
+170,Which is an open loop system?,Wind screen wiper,Aqualing,Respiratory system,Antirocket control system,A
+171,Correct statements about feedback are,1 2 and 3,1 and 2,2 and 3,1 and 3,D
+172,M circles are symmetrical with respect to,real and imaginary axis,M=1 line and real axis,M=1 line and imaginary axis,M=1 line,B
+173,A lag compensator,Speeds up transient response,Improves steady state behaviour,Improves steady state and speeds transient response,Improves steady state and preserves transient response,D
+174,In root locus breakaway and break in points,lie on real axis,real axis or complex conjugate pairs,always complex pairs,none,B
+175,In control systems output of sensor is usually,analog electrical signal,digital electrical signal,mechanical signal,analog or digital electrical signal,D
+176,Magnetic amplifier is used for,voltage amplification,power amplification,current amplification,frequency amplification,B
+177,Temperature is analogous to,voltage,flux,charge,none,A
+178,Relative stability of system is given by,gain margin alone,phase margin alone,both gain and phase margins,either,C
+179,Distance of poles from origin depends on,undamped natural frequency,damping ratio,both A and B,neither,A
+180,In field controlled motor damping comes from,armature resistance,back emf,motor friction and load,field resistance,C
+181,Addition of pole to open loop transfer function pulls root locus,to the right,to the left making system more stable,towards right or left depending on pole position,none,A
+182,The early effect in a bipolar junction transistor is caused by,Fast turn-on,Fast turn-off,Large collector-base reverse bias,Large emitter-base forward bias,C
+183,Thermal runaway is not possible in FET because as temperature increases,Mobility decreases,Transconductance increases,Drain current increases,None,A
+184,A source follower using an FET usually has a voltage gain which is,Greater than +100,Slightly less than unity but positive,Exactly unity but negative,About -10,B
+185,A differential amplifier has differential gain 20000 and CMRR 80 dB. The common mode gain is,2,1,1/2,0,B
+186,Approximate input impedance of OPAMP circuit with Ri=10k Rf=100k RL=10k is,Infinity,120k,110k,10k,A
+187,An OPAMP with slew rate 5 V per microsecond gives largest sine wave output at 1 MHz as,10/pi volts,5 volts,5/pi volts,5/2pi volts,C
+188,Changing emitter resistance Re in differential amplifier,Affects differential gain only,Affects common mode gain only,Affects both differential and common mode gain,Does not affect either,B
+189,A differential amplifier is used in input stage of OPAMP to provide very high,CMRR,Bandwidth,Slew rate,Open loop gain,A
+190,Effective channel length of MOSFET in saturation decreases with increase in,Gate voltage,Drain voltage,Source voltage,Body voltage,B
+191,Which is not associated with a PN junction?,Junction capacitance,Charge storage capacitance,Depletion capacitance,Channel length modulation,D
+192,In reverse biased PN junction electric field is maximum at,Edge of depletion region on p side,Edge of depletion region on n side,The PN junction,Center of depletion region,C
+193,For n-channel JFET with IDSS=2mA and Vp=-4V transconductance at VGS=-2V is,0.25,0.5,0.75,1,B
+194,In common emitter amplifier unbypassed resistor provides,Voltage shunt feedback,Current series feedback,Negative voltage feedback,Positive current feedback,B
+195,Constant current signal across parallel RLC gives output voltage at resonance equal to,1V,2V,1.4V,2.8V,D
+196,Class AB operation in power amplifiers is used to,Get maximum efficiency,Remove even harmonics,Overcome crossover distortion,Reduce collector dissipation,C
+197,Bandwidth of RF tuned amplifier depends on,Q factor of output circuit,Q factor of input circuit,Quiescent operating point,Q factors of input and output circuits and quiescent point,D
+198,If alpha=0.98 Ico=6 microampere and Ib=100 microampere then Ic is,2.3mA,3.2mA,4.6mA,5.2mA,C
+199,MOSFET switch in ON state is equivalent to,Resistor,Inductor,Capacitor,Battery,A
+200,Most linear ICs are based on differential amplifier because of,Input dependent linear characteristic,High voltage gain,High input resistance,High CMRR,D
+201,Negative feedback in amplifier,Reduces gain,Increases frequency and phase distortion,Reduces bandwidth,Increases noise,A
+202,DC power supply with no load 30V and full load 25V at 1A has output resistance and load regulation respectively,5 ohm and 20 percent,25 ohm and 20 percent,5 ohm and 16.7 percent,25 ohm and 16.7 percent,C
+203,Current gain of BJT drops at high frequency due to,Transistor capacitances,High base current effects,Parasitic inductance,Early effect,A
+204,Ideal OPAMP characteristics are,Ri infinity A infinity Ro zero,Ri zero A infinity Ro zero,Ri infinity A infinity Ro infinity,Ri zero A infinity Ro infinity,A
+205,For given transistor parameters the correct relation of fT and fbeta is,fT=1.64x10^8 Hz and fbeta=1.47x10^10 Hz,fT=1.47x10^10 Hz and fbeta=1.64x10^8 Hz,fT=1.33x10^12 Hz and fbeta=1.47x10^10 Hz,fT=1.47x10^10 Hz and fbeta=1.33x10^12 Hz,B
+206,741 OPAMP with gain bandwidth product 1MHz and gain 20dB has bandwidth,50KHz,100KHz,1000/17 KHz,1000/7.07 KHz,A
+207,Opamp amplifier with slew rate 1V per microsecond and gain 40dB maximum input without distortion is,795mV,395mV,795mV,39.5mV,D
+208,If differential gain is 48dB and common mode gain is 2dB then CMRR is,23dB,25dB,46dB,50dB,C
+209,Gain of transistor amplifier falls at high frequency due to,Internal capacitance,Coupling capacitor at input,Skin effect,Coupling capacitor at output,A
+210,Input resistance of current shunt negative feedback amplifier is,1/11 Kohm,1/5 Kohm,5 Kohm,11 Kohm,A
+211,JFET equivalent circuit acts as,Current controlled current source,Current controlled voltage source,Voltage controlled voltage source,Voltage controlled current source,D
+212,Three identical amplifiers each gain 50 cascaded overall gain is,49dB,51dB,98dB,102dB,D
+213,Ideal OPAMP is an ideal,Current controlled current source,Current controlled voltage source,Voltage controlled voltage source,Voltage controlled current source,C
+214,In full wave rectifier correct relation is,Vdc=Vm/pi PIV=2Vm,Vdc=2Vm/pi PIV=2Vm,Vdc=2Vm/pi PIV=Vm,Vdc=Vm/pi PIV=Vm,C
+215,Cascade amplifier is configuration of,CC-CB,CE-CB,CB-CC,CE-CC,B
+216,Current gain of BJT is,gm r0,gm/r0,gm rpi,gm/rpi,C
+217,Amplifier used in sample and hold circuits is,Unity gain non inverting amplifier,Unity gain inverting amplifier,Inverting gain 10,Inverting gain 100,A
+218,To prevent DC return between source and load use,Resistor,Inductor,Capacitor,Either resistor or inductor,C
+219,Emitter resistor stabilizes operating point against variations in,Only temperature,Only beta,Both temperature and beta,None,C
+220,Encapsulation of transistor is necessary for,Preventing radio interference,Preventing photo emission,Avoiding loss of free electrons,Mechanical ruggedness,D
+221,Transistor leakage current mainly depends on,Doping of base,Size of emitter,Rating of transistor,Temperature,D
+222,Maximum efficiency of CB amplifier could be,99 percent,85 percent,50 percent,25 percent,D
+223,In common emitter mode transistor has,Negligible input resistance and high output resistance,High input resistance and low output resistance,Medium input resistance and high output resistance,Low input and output resistance,C
+224,In base driven amplifier,Collector voltage is 180 degree out of phase with base voltage,Emitter voltage 180 degree out of phase,Collector voltage in phase,None,A
+225,Horizontal intercept of DC load line is ideal,Cutoff point,Saturation point,Operating point,Quasi saturation point,A
+226,In AC equivalent circuit we short circuit,All resistors,All transistors,All inductors,All capacitors,D
+227,False statement is,Push pull signals equal and opposite,Class AB cannot be used in push pull,Push pull transformer has centre tap,All of above,B
+228,Amplifier with best gain using BJT is,Common base,Common emitter,Common collector,All same,B
+229,In opamp differentiator,Output proportional to rate of change of input,Output proportional to input,Output when input constant,Input and output same polarity,A

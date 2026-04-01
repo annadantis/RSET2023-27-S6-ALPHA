@@ -1,0 +1,282 @@
+Question_No,Question,Option_A,Option_B,Option_C,Option_D,Option_E,Answer
+1,The SI unit used to measure power is,Henry,Coulomb,Watt,Watt-hour,None,C
+2,Electric pressure is another name for,Resistance,Power,Voltage,Energy,None,C
+3,Materials that contain many free electrons and offer very low resistance are called,Insulators,Inductors,Semiconductors,Conductors,None,D
+4,Which of the following is a good conductor of electricity?,Cast iron,Copper,Carbon,Tungsten,None,B
+5,Which of the following acts as an insulating material?,Copper,Gold,Silver,Paper,None,D
+6,The ability of a conductor to allow current flow is termed,Resistance,Reluctance,Conductance,Inductance,None,C
+7,Conductance is defined as the reciprocal of,Resistance,Inductance,Reluctance,Capacitance,None,A
+8,The resistance of a conductor is inversely proportional to,Length,Cross-sectional area,Temperature,Resistivity,None,B
+9,For pure metals, resistance with an increase in temperature,Increases,Decreases,First increases then decreases,Remains constant,None,A
+10,For semiconductors, resistance with increase in temperature,Decreases,Increases,First increases then decreases,Remains constant,None,A
+11,The resistivity of a 200 m copper wire of 0.44 mm diameter and 21 Ω resistance is approximately,1.2×10^-8 Ωm,1.4×10^-8 Ωm,1.6×10^-8 Ωm,1.8×10^-8 Ωm,None,C
+12,Equivalent resistance of 10Ω, 15Ω, and 30Ω connected in parallel is,5Ω,10Ω,15Ω,55Ω,None,A
+13,An instrument used to detect small electric currents is called,Voltmeter,Rheostat,Wattmeter,Galvanometer,None,D
+14,A 33Ω resistor carrying 2A current will have a voltage of,33V,66V,80V,132V,None,B
+15,A bulb draws 0.3A at 240V. Its resistance is approximately,400Ω,600Ω,800Ω,1000Ω,None,C
+16,If total parallel resistance is 12Ω and one branch is 18Ω, the other branch is,18Ω,36Ω,48Ω,64Ω,None,B
+17,Four identical wires in parallel give 0.25Ω. In series they give,1Ω,2Ω,3Ω,4Ω,None,D
+18,A 16A current divides between 8Ω and 12Ω parallel branches as,6.4A & 6.9A,6.4A & 9.6A,4.6A & 6.9A,4.6A & 9.6A,None,B
+19,Drift velocity of electrons in copper is,Equal to energy propagation speed,Independent of current,Very small (few μm/s),3×10^8 m/s,None,C
+20,Material with nearly zero temperature coefficient of resistance is,Manganin,Porcelain,Carbon,Copper,None,A
+21,To obtain 1500Ω using 1000Ω resistors, connect,Two parallel,Two parallel plus one series,Three parallel,Three series,None,B
+22,Two resistors are in series when,Same current flows sequentially,Same current value flows,Total current equals branch sum,Voltage drops equal EMF,None,A
+23,Common feature of both series and parallel DC circuits is,Individual currents,Additive currents,Additive voltages,Additive power,None,D
+24,Material with negative temperature coefficient is,Copper,Aluminum,Carbon,Brass,None,C
+25,Ohm’s law does not apply to,Vacuum tubes,Carbon resistors,High voltage circuits,Low current circuits,None,A
+26,Best conductor among given options is,Iron,Silver,Copper,Carbon,None,B
+27,Ampere-second is unit of,Reluctance,Charge,Power,Energy,None,B
+28,Which is NOT equivalent to watt?,Ampere×Ohm,Joule/sec,Ampere×Volt,Ampere/Volt,None,D
+29,A 10Ω 10W resistor is typically,Metallic,Carbon,Wire-wound,Variable,None,C
+30,Which does NOT have negative temperature coefficient?,Aluminium,Paper,Rubber,Mica,None,A
+31,Varistors are,Insulators,Non-linear resistors,Carbon resistors,Zero temp coefficient resistors,None,B
+32,Insulating materials are used for,Preventing short circuits,Preventing open circuits,Carrying large currents,Storing currents,None,A
+33,Fuse rating is expressed in,Ampere-hour,Ampere-volt,kWh,Ampere,None,D
+34,Minimum ionic charge equals,Atomic number,Charge of electron,Number of electrons,Zero,None,B
+35,In series circuit with unequal resistances,Highest resistance has highest current,Lowest resistance has highest voltage,Lowest resistance has highest current,Highest resistance has highest voltage,None,D
+36,Filament of electric bulb is made of,Carbon,Aluminium,Tungsten,Nickel,None,C
+37,A 3Ω resistor with 2A current dissipates,2W,4W,6W,8W,None,C
+38,A galvanometer becomes an ammeter when connected with,Low resistance parallel,High resistance parallel,Low resistance series,High resistance series,None,C
+39,Resistance of few meters of wire in closed circuit is,Nearly zero,Low,High,Very high,None,A
+40,If main line of parallel circuit opens,Current increases in lowest branch,Current increases in each branch,Current becomes zero everywhere,Zero in highest branch,None,C
+41,If length of 0.2Ω wire doubles, resistance becomes,0.4Ω,0.6Ω,0.8Ω,1Ω,None,A
+42,If one bulb fails in parallel circuit,Heavy current flows,Others won’t glow,All glow,Remaining bulbs glow,None,D
+43,In series connection of bulbs,Current same in each,Voltage unequal,Power unequal,None,None,A
+44,For R1>R2 in series, largest voltage drop across,R1,R2,Either,None,None,A
+45,Energy used to move 6.28×10^18 electrons across 20V is,5J,10J,15J,20J,None,B
+46,Resistance of closed switch is,Zero,50Ω,500Ω,Infinite,None,A
+47,Hot resistance of bulb is higher because coefficient is,Zero,Negative,Positive,2Ω/°C,None,C
+48,Heating effect in conductor is due to,Reactance,Capacitance,Impedance,Resistance,None,D
+49,Insulation on conductor prevents,Leakage,Shock,Both,None,None,C
+50,Insulation thickness depends on,Voltage,Current,Both,None,None,A
+51,Quantity constant in series circuit is,Voltage,Current,Power,Resistance,None,B
+52,Replacing 40W bulb with 100W in series heater makes heater output,Decrease,Increase,Same,Burn out,None,B
+53,To increase boiling time from 10 to 15 minutes, heater element length should,Decrease,Increase,No effect,None,None,A
+54,Filament bulb can operate on,DC only,AC only,Battery only,All supplies,None,D
+55,Resistance of tungsten lamp with increasing voltage,Decreases,Increases,Same,None,None,B
+56,Electric current produces,Thermal effect,Magnetic effect,Chemical effect,Luminous effect,All effects,E
+57,Resistance decreases when,Temperature decreases,Temperature increases,Free electrons increase,None,None,C
+58,If the force between two electric charges is 120 N and the distance between them is doubled, the new force will be,60 N,30 N,40 N,15 N,B
+59,Electric field intensity at 4 m from a charge is 200 N/C. What will be the intensity at 2 m?,400 N/C,600 N/C,800 N/C,1200 N/C,C
+60,Electric lines of force around charged particles are,Always straight,Always curved,Sometimes curved,None of these,B
+61,Electric field intensity at a distance d from a long charged conductor varies as,Directly proportional to d,Inversely proportional to d,Inversely proportional to d²,None of these,B
+62,The electric field due to a positive charge is directed,Away from the charge,Towards the charge,Both directions,None of these,A
+63,Electric field lines and equipotential surfaces are,Parallel,Perpendicular,Inclined at any angle,None of these,B
+64,The force between charged bodies exists due to the presence of,Electrons,Protons,Neutrons,Electric field,D
+65,If a bakelite sheet is inserted between capacitor plates, the capacitance,Decreases,Increases,Remains unchanged,Becomes zero,B
+66,A capacitor stores 0.24 C at 10 V. Its capacitance is,0.024 F,0.12 F,0.6 F,0.8 F,A
+67,For better capacitor design, the dielectric material should have,Low permittivity,High permittivity,Permittivity equal to air,Slightly higher than air,B
+68,The SI unit of capacitance is,Volt per coulomb,Coulomb per volt,Ohm,Henry per weber,B
+69,Three capacitors of 15 µF each connected in series give total capacitance of,5 µF,30 µF,45 µF,50 µF,A
+70,Three capacitors of 10 µF each connected in parallel give total capacitance of,20 µF,30 µF,40 µF,50 µF,B
+71,A dielectric material must be a,Resistor,Insulator,Good conductor,Semiconductor,B
+72,Electrolytic capacitors are normally used with,DC supply only,AC supply only,Both AC and DC,None of these,A
+73,Capacitance of a capacitor is independent of,Plate separation,Plate area,Thickness of plates,Dielectric material,C
+74,Which of the following is not a vector quantity?,Linear momentum,Angular momentum,Electric field,Electric potential,D
+75,When charged capacitor plates are moved apart after disconnecting supply,Voltage across plates,Increases,Decreases,Charge decreases,Charge increases,B
+76,In an AC capacitive circuit current flows because,Varying voltage causes charging and discharging currents,High peak voltage,Only charging current flows,Only discharging current flows,A
+77,If dielectric produces electric field 100 times that of air, dielectric constant is,50,100,150,200,B
+78,Which statement about capacitors is correct?,Air capacitors show polarity,Electrolytic capacitors require correct polarity,Ceramic capacitors are polarized,Mica capacitors only 1–10 pF,B
+79,Dissipation factor of a good dielectric is approximately,0.0002,0.002,0.02,0.2,A
+80,Statement relating electric flux through closed surface to enclosed charge represents,Coulomb’s law,Gauss’s law,Maxwell’s first law,Maxwell’s second law,B
+81,Three equal capacitors produce equivalent capacitance of 2/3 C when connected as,All in series,All in parallel,Two in parallel and third in series,Two in series and third in parallel,C
+82,Capacitance remains unaffected by change in,Plate spacing,Plate area,Dielectric type,Plate thickness,D
+83,During capacitor discharge, current,Increases linearly,Increases exponentially,Decreases exponentially,Decreases uniformly,C
+84,Correct expression for electric field strength is,E = D/ε,E = D²/t,E = jtD,E = nD²,A
+85,Electric charge in a capacitor is stored in,Metal plates,Dielectric,Both,None,B
+86,Material with highest dielectric constant among given options is,Glass,Vacuum,Ceramic,Oil,C
+87,Capacitor with least variation in value is,Paper capacitor,Ceramic capacitor,Silvered mica capacitor,None,C
+88,Which statement is incorrect?,Ceramic capacitors have high leakage resistance,Stored energy decreases with lower capacitance,Stored energy increases with voltage,Cables have distributed capacitance,B
+89,Capacitor having shorter shelf life is,Mica capacitor,Electrolytic capacitor,Ceramic capacitor,Paper capacitor,B
+90,Sparking between electrical contacts can be reduced by connecting,Capacitor in parallel,Capacitor in series,Resistance in line,None,A
+91,Equivalent series resistance of a lossy capacitor is,Small,Very small,Large,Zero,C
+92,Power dissipated in a pure capacitor is,Zero,Proportional to voltage,Proportional to capacitance,Both proportional,A
+93,In capacitive circuit, capacitor charges when,Voltage remains constant,Voltage increases,Voltage decreases,None,B
+94,Introducing dielectric in parallel plate capacitor causes potential difference to,Remain unchanged,Decrease,Increase,Become zero,B
+95,Capacitance increases with,Increase in plate area and decrease in separation,Increase in area and separation,Decrease in area and voltage,Decrease in area and separation,A
+96,A capacitor consists of,Two insulators and conductor,Two conductors separated by insulator,Two insulators only,Two conductors only,B
+97,A gang condenser is a,Polarized capacitor,Variable capacitor,Ceramic capacitor,None,B
+98,Paper capacitors are generally constructed as,Tubes,Rolled foil,Disc type,Meshed plates,B
+99,Air capacitors are commonly available in range,10–400 pF,1–20 pF,100–900 pF,20–100 pF,A
+100,The SI unit of capacitance is,Henry,Ohm,Farad,Farad per metre,C
+101,A capacitor charged to 200 V stores 2000 µC charge. Its capacitance is,10 F,10 µF,100 nF,1000 µF,B
+102,A sine wave has a frequency of 50 Hz. Its angular frequency is,100π rad/s,50π rad/s,25π rad/s,5π rad/s,A
+103,A capacitor has reactance of 20 ohms at 50 Hz. If frequency becomes 100 Hz, the reactance will be,2.5 ohms,5 ohms,10 ohms,15 ohms,C
+104,The time period of a wave is defined as,Same as frequency,Time taken to complete one cycle,Measured in amperes,None of these,B
+105,Form factor is defined as the ratio of,Peak value to RMS value,RMS value to average value,Average value to RMS value,None of these,B
+106,The time period of a sine wave corresponding to a frequency of 50 Hz is associated with frequency,20 Hz,30 Hz,40 Hz,50 Hz,D
+107,A heater rated 230 V AC refers to,Average voltage,RMS voltage,Peak voltage,None of these,B
+108,If two sinusoids of same frequency but different amplitudes and phase angles are subtracted, the result is,A sinusoid of same frequency,A sinusoid of half frequency,A sinusoid of double frequency,Not a sinusoid,A
+109,A sine wave has peak value 200 V. Its average value is approximately,127.4 V,141.4 V,282.8 V,200 V,A
+110,If two sine waves have a phase difference of π radians, then,They reach minimum together,They reach maximum together,One reaches maximum when other reaches minimum,None of these,C
+111,The domestic supply voltage of 220 V represents,Mean value,RMS value,Peak value,Average value,B
+112,Two waves are said to be in opposite phase when phase angle between them is,360°,180°,90°,0°,B
+113,Power consumed in a circuit element is minimum when phase difference between voltage and current is,180°,90°,60°,0°,B
+114,RMS value equals mean value in the case of,Triangular wave,Sine wave,Square wave,Half-wave rectified sine wave,C
+115,For same peak value, which waveform has highest RMS value?,Square wave,Half-wave rectified sine wave,Triangular wave,Sine wave,A
+116,For same peak value, which waveform has least average value?,Half-wave rectified sine wave,Triangular wave,Sine wave,Square wave,A
+117,For a sine wave with peak current Imax, RMS value is,0.5 Imax,0.707 Imax,0.9 Imax,1.414 Imax,B
+118,Form factor is the ratio of,Average/RMS value,Average/Peak value,RMS/Average value,RMS/Peak value,C
+119,Form factor of a sine wave is,1.414,0.707,1.11,0.637,C
+120,Average value of sine wave in terms of peak value Emax is,0.636 Emax,0.707 Emax,0.434 Emax,1.414 Emax,A
+121,For a frequency of 200 Hz, the time period is,0.05 s,0.005 s,0.0005 s,0.5 s,B
+122,For phase difference between voltage and current to exist, both waves must have,Same frequency,Same peak value,Zero value at same instant,None,A
+123,RMS value of sinusoidal current equals instantaneous value at angle of,90°,60°,45°,30°,C
+124,Capacitive reactance increases when,Capacitance and frequency are low,Capacitance low and frequency high,Capacitance high and frequency low,Capacitance and frequency high,A
+125,In a series resonant circuit, impedance is,Minimum,Maximum,Zero,None,A
+126,Power factor of a circuit is equal to,R/Z,Cosine of phase angle,kW/kVA,All of these,D
+127,Best location for installing a capacitor for power factor correction is,Near inductive load,Across inductive load,Far from inductive load,Anywhere,B
+128,Poor power factor results in,Reduced load capacity,Higher power losses,Overloading of equipment,All of these,D
+129,Capacitors used for power factor correction are rated in,kW,kVA,kV,kVAR,D
+130,In a series resonant circuit, doubling inductance and halving capacitance will,Change maximum current,Change resonance frequency,Change impedance at resonance,Increase selectivity,D
+131,A pure inductive circuit,Takes no power,Takes power only during part of cycle and returns it later,Consumes average power,None,C
+132,Inductance affects DC current,Only during switching off,Only during switching on,During switching on and off,At all times,C
+133,Inductance of a coil depends on,Core area,Square of number of turns,Permeability of core,All of these,D
+134,DC circuit laws apply directly to AC circuits containing,Capacitance only,Inductance only,Resistance only,All of these,C
+135,Time constant of an inductive circuit increases when,Inductance increases and resistance decreases,Inductance and resistance increase,Inductance and resistance decrease,Inductance decreases and resistance increases,A
+136,Power factor of inductive circuit is improved by connecting capacitor in,Parallel,Series,Either,None,A
+137,In a highly capacitive circuit,Reactive power exceeds actual power,Apparent power equals actual power,Actual power exceeds reactive power,None,C
+138,Power factor is zero in,Pure resistance,Pure inductance,Pure capacitance,Both inductance and capacitance,D
+139,Power factor is unity in,Pure inductive circuit,Pure capacitive circuit,Pure resistive circuit,Both inductive and capacitive,C
+140,High power factor is maintained to,Reduce losses,Improve equipment utilization,Reduce voltage drop,All of these,D
+141,Time constant of RC circuit is time taken for voltage to,Rise to 63.2% of final value,Fall to 36.8% of final value,Rise to 38.6% of final value,None,C
+142,In loss-free RLC circuit transient current is,Oscillating,Square wave,Sinusoidal,Non-oscillating,C
+143,RMS value of AC current equals DC current which produces,More heat,Same heat,Less heat,None,B
+144,In square waveform,RMS value equals average value,RMS greater than average,RMS less than average,None,A
+145,Double energy transient occurs in,Pure inductive circuit,RL circuit,RC circuit,RLC circuit,D
+146,Transient currents are associated with,Change in stored energy,Impedance,Applied voltage,Resistance,A
+147,Power factor at resonance in parallel RLC circuit is,Zero,0.8 lagging,0.8 leading,Unity,D
+148,Average value of unsymmetrical AC must be taken over,Unsymmetrical portion,Quarter cycle,Half cycle,Full cycle,D
+149,In pure resistive circuit,Current lags by 90°,Current leads by 90°,Current leads or lags by 90°,Current is in phase with voltage,D
+150,In pure inductive circuit,Current in phase with voltage,Current lags voltage by 90°,Current leads voltage by 90°,Current may lead or lag,B
+151,The direction of rotation of a DC series motor can be reversed by,Interchanging supply terminals,Interchanging field terminals,Either A or B,None of these,B
+152,Which application requires high starting torque?,Lathe machine,Centrifugal pump,Locomotive,Air blower,C
+153,For conveyor drives, which DC motor is generally preferred?,Series motor,Shunt motor,Differential compound motor,Cumulative compound motor,A
+154,Which DC motor is commonly used for machine tools?,Series motor,Shunt motor,Cumulative compound motor,Differential compound motor,B
+155,Differentially compounded DC motors are suitable for applications needing,High starting torque,Low starting torque,Wide speed variation,Frequent start-stop operation,B
+156,Which DC motor is most suitable for elevators?,Shunt motor,Series motor,Differential compound motor,Cumulative compound motor,D
+157,According to Fleming’s left-hand rule, if the forefinger indicates magnetic field direction, the middle finger shows direction of,Current in conductor,Motion of conductor,Resultant force,None of these,A
+158,If the field circuit of a DC shunt motor opens while running,The speed decreases,Armature current decreases,Motor runs at dangerously high speed,Motor continues at same speed,C
+159,Starters are required for DC motors because,They provide high starting torque,Motor is not self-starting,Back EMF is zero at start,They limit starting current,D
+160,In a DC shunt motor, when load decreases,Speed rises sharply,Speed increases proportionally,Speed remains nearly constant,Speed decreases,C
+161,A DC series motor typically has,Thick field winding with few turns,Low starting torque,Constant speed operation,Easy no-load starting,A
+162,A starter is used with DC motors to,Control speed,Limit starting current,Provide rotation,None,B
+163,Shears and punch machines generally use,Shunt motor,Series motor,Differential compound motor,Cumulative compound motor,D
+164,If a DC motor is connected to AC supply,It runs normally,It will not run,It runs slowly,It may burn due to heating in field winding,D
+165,To obtain DC motor speed below normal without power loss, which method is used?,Ward-Leonard control,Rheostatic control,Either method,None,A
+166,Two DC series motors connected in parallel will run at,Above normal speed,Below normal speed,Normal speed,Zero speed,C
+167,Speed of DC shunt motor above full-load speed is obtained by,Reducing field current,Increasing field current,Reducing armature current,Increasing armature current,A
+168,In a DC shunt motor, speed is largely,Independent of armature current,Directly proportional to armature current,Proportional to square of current,Inversely proportional to current,A
+169,A direct-on-line starter is used for motors up to,5 HP,10 HP,15 HP,20 HP,A
+170,If back EMF of a DC motor suddenly becomes zero,Motor stops,Motor keeps running,Armature may burn,Motor becomes noisy,C
+171,Speed of DC shunt motor mainly depends on back EMF because,Back EMF equals armature drop,Armature drop negligible,Flux proportional to armature current,Flux nearly constant,D
+172,At maximum power condition in DC motor, armature current is,Negligible,Full-load current,Less than full-load current,More than full-load current,D
+173,DC motors are widely used in,Water pumps,Air compressors,Electric traction,Machine shops,C
+174,A DC motor can be identified by presence of,Frame,Shaft,Commutator,Stator,C
+175,DC series motor is commonly used in,Car starter,Water pump,Fan,Universal drive,A
+176,Fractional pitch winding in DC machines is used to,Improve cooling,Reduce copper loss,Increase EMF,Reduce sparking,D
+177,Three-point starter is suitable for,Shunt motors,Shunt and compound motors,All DC motors,Series motors,B
+178,At maximum power condition, efficiency of DC motor is,100%,About 90%,75–90%,Less than 50%,D
+179,Ratio of starting torque to full-load torque is least in,Series motor,Shunt motor,Compound motor,None,B
+180,Which part of DC motor can withstand highest temperature rise?,Slip rings,Commutator,Field winding,Armature winding,C
+181,Direction of rotation of DC motor is determined by,Lenz’s law,Faraday’s law,Coulomb’s law,Fleming’s left-hand rule,D
+182,Which load requires starting torque higher than rated torque?,Blower,Conveyor,Air compressor,Centrifugal pump,B
+183,Starting resistance of DC motor is generally,Low,500 ohms,1000 ohms,Infinite,A
+184,Speed of DC series motor is,Proportional to armature current,Proportional to square of current,Proportional to field current,Inversely proportional to armature current,D
+185,If armature current of DC series motor reduces by 50%, torque becomes,100%,50%,25%,10%,C
+186,Armature current of DC motor is proportional to,Torque,Speed,Terminal voltage,None,A
+187,Power rating on motor nameplate indicates,Input power in kW,Input in kVA,Gross power,Shaft output power,D
+188,Which DC motor has maximum self-loading property?,Series motor,Shunt motor,Cumulative compound motor,Differential compound motor,D
+189,Motor suitable with flywheel for intermittent loads is,Series motor,Shunt motor,Cumulative compound motor,Differential compound motor,C
+190,If shunt field of running DC motor opens,Nothing happens,Heavy armature current flows,Motor overspeeds dangerously,Motor slows down,C
+191,DC series motors are generally used,For constant load,For frequently varying load,Where constant speed needed,None,D
+192,For same HP and speed, which motor has poor starting torque?,Shunt motor,Series motor,Differential compound motor,Cumulative compound motor,C
+193,In conductively compensated DC series motor, compensating winding is connected,Separately wound,Parallel to armature,Series with armature,Parallel to field,C
+194,Sparking at commutator may cause,Segment damage,Insulation damage,Increased losses,All of these,D
+195,Motor suitable for explosive atmosphere is,Series motor,Shunt motor,Air motor,Battery motor,C
+196,If supply voltage to DC motor increases, which decreases?,Starting torque,Operating speed,Full-load current,All,C
+197,Pole shoes in DC machine do NOT function to,Reduce eddy current loss,Support field coils,Spread flux uniformly,Reduce magnetic reluctance,A
+198,Mechanical power of shunt motor is maximum when back EMF to applied voltage ratio is,4.0,2.0,1.0,0.5,D
+199,The opposite property of hardness is known as,Malleability,Toughness,Softness,None of these,C
+200,Resistivity of a material depends on,Resistance of conductor,Area of cross-section,Length of conductor,All of these,D
+201,The negatively charged particle in an atom is,Proton,Neutron,Electron,None,C
+202,The maximum number of electrons in a shell is given by formula,2n^2,4n^2,2n^3,4n,A
+203,A small repeating unit formed by arrangement of atoms in a crystal is called,Unit cell,Space lattice,Both A and B,None,A
+204,Coordination number of simple cubic structure is,2,4,6,8,C
+205,A covalent bond is formed by,Transfer of electrons,Sharing of electrons,Variable sharing,None,B
+206,A perfect conductor has,Zero conductivity,Unity conductivity,Infinite conductivity,None,C
+207,Which metal has lowest temperature coefficient of resistance?,Gold,Copper,Aluminium,Kanthal,A
+208,Commonly used conducting materials are,Copper,Aluminium,Both copper and aluminium,Copper and silver,C
+209,Material preferred for long-distance power transmission is,Copper,Aluminium,Steel reinforced copper,Steel reinforced aluminium,D
+210,Kinetic energy of a bound electron is,Less than free electron,Greater than free electron,Equal to free electron,Infinite,A
+211,A highly conductive material should possess,High conductivity,Low temperature coefficient,Good strength and corrosion resistance,All of these,D
+212,Conductivity of a conductor increases by,Decreasing temperature,Increasing temperature,Increasing vibration,Decreasing vibration,A
+213,Superconductivity is observed under,Infrared frequencies,DC and low frequency,High frequency AC,None,B
+214,Superconductivity occurs because,No atomic vibration at 0 K,Electron interaction state,Electrons enter nucleus,None,A
+215,As temperature decreases below transition temperature, critical field value,Increases,Decreases,Remains same,Any,A
+216,Critical current density in superconductor depends on,Magnetic field,Temperature,Both A and B,Either A or B,C
+217,Superconductors are mainly used for,Strong magnetic fields,Bubble memory,Electrostatic fields,Magnetic shielding,A
+218,High resistivity materials are used in,Precision instruments,Heating elements,Motor starters,All of these,D
+219,In electrical contacts, mercury is,A liquid,A metal,A liquid metal,A gas,C
+220,An HRC fuse consists of,Ceramic body with metal caps,Platinum wire,Heavy copper section,Ceramic tube with carbon rod,A
+221,Resistive material with lowest temperature coefficient is,Nichrome,Constantan,Kanthal,Molybdenum,A
+222,Starter coils of DC motor are wound using,Copper,Kanthal,Manganin,Nichrome,C
+223,Electron transport in conductors occurs due to,Electric field,Magnetic field,Electromagnetic field,None,A
+224,Transition temperature of mercury is,18 K,9.22 K,4.12 K,1.14 K,C
+225,Increasing impurity in metal alloy causes residual resistivity to,Decrease,Increase,Remain same,Become temperature independent,B
+226,Structure-sensitive property of superconductor is,Critical magnetic field,Transition temperature,Critical current density,None,C
+227,At transition temperature, critical magnetic field becomes,Zero,Negative,Positive,Complex,A
+228,Copper with highest conductivity is,Induction hardened,Hard drawn,Pure annealed,Silicon copper,C
+229,Constantan is an alloy of,Silver-tin,Copper-tungsten,Tungsten-silver,Copper-nickel,D
+230,Poorest electrical conductor among following is,Carbon,Steel,Silver,Aluminium,A
+231,Material with zero temperature coefficient is,Aluminium,Carbon,Porcelain,Manganin,D
+232,Piezoelectric materials generate,Resonant waves,Musical waves,Microwaves,Ultrasonic waves,D
+233,Common thermocouple pair is,Copper-constantan,Aluminium-tin,Silver-German silver,Iron-steel,A
+234,Which material is viscoelastic?,Cast iron,Graphite,Rubber,Glass,C
+235,Carbon electrodes are NOT used in,GLS lamps,Arc furnaces,Dry cells,Cinema projectors,A
+236,Solder is alloy of,Copper-aluminium,Tin-lead,Nickel-copper-zinc,Silver-copper-lead,B
+237,Magnetic recording tapes commonly use,Silver nitrate,Ferric oxide,Iron particles,Silicon iron,B
+238,Overhead telephone wires are generally made of,Aluminium,Steel,ACSR,Copper,B
+239,Example of piezoelectric material is,Glass,Quartz,Corundum,Neoprene,B
+240,Main constituent of glass is,Fe2O3,SiO2,Al2O3,B2O3,B
+241,A good electrical contact material should NOT have,High resistivity,Corrosion resistance,High thermal conductivity,High melting point,A
+242,Most common metals have which crystal structure?,Linear,Hexagonal,Orthorhombic,Cubic,D
+243,Resistivity of conductors is greatly affected by,Composition,Pressure,Size,Temperature,A
+244,Thermionic emission occurs in,Vacuum tubes,Copper wires,Ferrites,Transistors,A
+245,Hard solder is,Copper-zinc,Tin-lead,Tin-silver-lead,None,A
+246,Adding silicon to iron generally,Increases resistivity,Decreases resistivity,No change,None,A
+247,Superconductivity can be destroyed by,Adding impurities,Applying magnetic field,Both A and B,None,C
+248,Non-linear resistors,Produce harmonics,Follow Ohm's law always,Cause uniform heating,None,A
+249,A carbon resistor contains,Carbon crystals,Solid granules,Pulverized coal,Carbon black,D
+250,Material without covalent bonds is,Organic polymers,Silicon,Metals,None,C
+251,In graphite bonding is,Covalent,Metallic,Van der Waals,Both covalent and Van der Waals,D
+252,Total number of crystal systems is,2,4,7,12,C
+253,Number of atoms in BCC unit cell is,1,2,4,8,B
+254,Metal conductivity depends on,Electron concentration and mobility,Valence electrons per atom,Both A and B,None,A
+255,Resistivity varies with temperature because,Atomic vibration changes,Electron density changes,Gas density changes,None,A
+256,Atomic vibration frequency in crystal depends on,Heat content,Temperature,Bond stiffness,None,C
+257,Aluminium resists corrosion because,It is noble metal,Oxide layer prevents diffusion,No reaction with oxygen,None,B
+258,In semiconductors impurity atoms,Add charge carriers,Reduce energy gap,Increase kinetic energy,All,B
+259,An oscillator converts,DC power to DC power,DC power to AC power,Mechanical power to AC power,None of these,B
+260,In an LC transistor oscillator the active device is,LC tank circuit,Biasing circuit,Transistor,None of these,C
+261,In an LC circuit when capacitor energy is maximum the inductor energy is,Minimum,Maximum,Half of maximum,None of these,A
+262,In an LC oscillator the frequency is,Proportional to square of L or C,Directly proportional to L or C,Independent of L and C,Inversely proportional to square root of L and C,D
+263,An oscillator produces which type of oscillations,Damped,Undamped,Modulated,None of these,B
+264,An oscillator employs which type of feedback,Positive,Negative,Neither,Insufficient data,A
+265,An LC oscillator cannot be used to generate which frequencies,High,Audio,Very low,Very high,C
+266,Hartley oscillator is commonly used in,Radio receivers,Radio transmitters,TV receivers,None of these,A
+267,In a phase shift oscillator number of RC sections used is,Two,Three,Four,None of these,B
+268,In a phase shift oscillator frequency determining elements are,L and C,R L and C,R and C,None of these,C
+269,A Wien bridge oscillator uses which feedback,Only positive,Only negative,Both positive and negative,None of these,C
+270,The piezoelectric effect in a crystal is,Voltage due to mechanical stress,Resistance change due to temperature,Frequency change due to temperature,None of these,A
+271,If crystal frequency increases with temperature the temperature coefficient is,Positive,Zero,Negative,None of these,A
+272,High frequency stability of crystal oscillator is due to,Rigidity,Vibrations,Low Q,High Q,D
+273,Crystal oscillators are most commonly used in,Radio receivers,Radio transmitters,AF sweep generators,None of these,B
+274,An oscillator differs from an amplifier because it,Has more gain,Needs no input signal,Needs no DC supply,Has same input always,B
+275,One condition for oscillation is,180 degree phase shift,Loop gain one-third,Zero degree phase shift,Loop gain less than one,C
+276,Second condition for oscillation is,Loop gain equal to one,No loop gain,Attenuation one-third,Capacitive feedback,A
+277,If amplifier gain Av is 50 the feedback attenuation must be,1,0.1,10,0.02,D
+278,For oscillations to start the loop gain must be,Equal to one,Greater than one,Less than one,Equal to attenuation,B
+279,In a Wien bridge oscillator decreasing resistance in feedback circuit causes frequency to,Remain same,Decrease,Increase,Insufficient data,C
+280,In Colpitts oscillator feedback is obtained,By magnetic induction,By tickler coil,From split capacitors,None of these,C
+281,The Q factor of a crystal is typically of the order of,100,1000,50,More than 10000,D
